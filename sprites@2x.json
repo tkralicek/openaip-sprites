@@ -1,0 +1,898 @@
+{
+  "ad_closed-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 370,
+    "y": 594
+  },
+  "ad_closed-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 442,
+    "y": 670
+  },
+  "ad_closed-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 558,
+    "y": 730
+  },
+  "ad_mil-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 430,
+    "y": 594
+  },
+  "ad_mil-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 490,
+    "y": 670
+  },
+  "ad_mil-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 594,
+    "y": 730
+  },
+  "af_civil-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 490,
+    "y": 594
+  },
+  "af_civil-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 538,
+    "y": 670
+  },
+  "af_civil-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 630,
+    "y": 730
+  },
+  "af_water-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 550,
+    "y": 594
+  },
+  "af_water-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 586,
+    "y": 670
+  },
+  "af_water-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 666,
+    "y": 730
+  },
+  "apt-dot": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 474,
+    "y": 778
+  },
+  "apt-large": {
+    "height": 76,
+    "pixelRatio": 2,
+    "width": 76,
+    "x": 0,
+    "y": 594
+  },
+  "apt-medium": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 610,
+    "y": 594
+  },
+  "apt-small": {
+    "height": 44,
+    "pixelRatio": 2,
+    "width": 44,
+    "x": 78,
+    "y": 730
+  },
+  "apt-tiny": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 502,
+    "y": 778
+  },
+  "apt_mil_civil-large": {
+    "height": 76,
+    "pixelRatio": 2,
+    "width": 76,
+    "x": 76,
+    "y": 594
+  },
+  "apt_mil_civil-medium": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 670,
+    "y": 594
+  },
+  "apt_mil_civil-small": {
+    "height": 44,
+    "pixelRatio": 2,
+    "width": 44,
+    "x": 122,
+    "y": 730
+  },
+  "diagonal_lines_blue-2": {
+    "height": 4,
+    "pixelRatio": 2,
+    "width": 4,
+    "x": 554,
+    "y": 814
+  },
+  "diagonal_lines_blue-3": {
+    "height": 6,
+    "pixelRatio": 2,
+    "width": 6,
+    "x": 530,
+    "y": 814
+  },
+  "diagonal_lines_blue-6": {
+    "height": 12,
+    "pixelRatio": 2,
+    "width": 12,
+    "x": 482,
+    "y": 814
+  },
+  "diagonal_lines_gray-2": {
+    "height": 4,
+    "pixelRatio": 2,
+    "width": 4,
+    "x": 558,
+    "y": 814
+  },
+  "diagonal_lines_gray-3": {
+    "height": 6,
+    "pixelRatio": 2,
+    "width": 6,
+    "x": 536,
+    "y": 814
+  },
+  "diagonal_lines_gray-6": {
+    "height": 12,
+    "pixelRatio": 2,
+    "width": 12,
+    "x": 494,
+    "y": 814
+  },
+  "diagonal_lines_green-2": {
+    "height": 4,
+    "pixelRatio": 2,
+    "width": 4,
+    "x": 562,
+    "y": 814
+  },
+  "diagonal_lines_green-3": {
+    "height": 6,
+    "pixelRatio": 2,
+    "width": 6,
+    "x": 542,
+    "y": 814
+  },
+  "diagonal_lines_green-6": {
+    "height": 12,
+    "pixelRatio": 2,
+    "width": 12,
+    "x": 506,
+    "y": 814
+  },
+  "diagonal_lines_red-2": {
+    "height": 4,
+    "pixelRatio": 2,
+    "width": 4,
+    "x": 566,
+    "y": 814
+  },
+  "diagonal_lines_red-3": {
+    "height": 6,
+    "pixelRatio": 2,
+    "width": 6,
+    "x": 548,
+    "y": 814
+  },
+  "diagonal_lines_red-6": {
+    "height": 12,
+    "pixelRatio": 2,
+    "width": 12,
+    "x": 518,
+    "y": 814
+  },
+  "gliding-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 76,
+    "x": 730,
+    "y": 594
+  },
+  "gliding-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 634,
+    "y": 670
+  },
+  "gliding-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 46,
+    "x": 702,
+    "y": 730
+  },
+  "gliding_winch-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 74,
+    "x": 806,
+    "y": 594
+  },
+  "gliding_winch-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 58,
+    "x": 694,
+    "y": 670
+  },
+  "gliding_winch-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 46,
+    "x": 748,
+    "y": 730
+  },
+  "hang_gliding-large": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 276,
+    "y": 778
+  },
+  "hang_gliding-medium": {
+    "height": 24,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 814
+  },
+  "hang_gliding-small": {
+    "height": 18,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 266,
+    "y": 814
+  },
+  "hang_gliding_landing": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 200,
+    "y": 594
+  },
+  "hang_gliding_landing-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 794,
+    "y": 730
+  },
+  "hang_gliding_take_off": {
+    "height": 70,
+    "pixelRatio": 2,
+    "width": 70,
+    "x": 270,
+    "y": 594
+  },
+  "hang_gliding_take_off-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 830,
+    "y": 730
+  },
+  "heli_civil-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 880,
+    "y": 594
+  },
+  "heli_civil-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 752,
+    "y": 670
+  },
+  "heli_civil-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 866,
+    "y": 730
+  },
+  "heli_mil-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 940,
+    "y": 594
+  },
+  "heli_mil-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 800,
+    "y": 670
+  },
+  "heli_mil-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 902,
+    "y": 730
+  },
+  "hotspot_fair-large": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 166,
+    "y": 730
+  },
+  "hotspot_fair-medium": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 530,
+    "y": 778
+  },
+  "hotspot_fair-small": {
+    "height": 22,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 48,
+    "y": 814
+  },
+  "hotspot_high-large": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 226,
+    "y": 730
+  },
+  "hotspot_high-medium": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 570,
+    "y": 778
+  },
+  "hotspot_high-small": {
+    "height": 22,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 78,
+    "y": 814
+  },
+  "hotspot_industrial": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 938,
+    "y": 730
+  },
+  "hotspot_poor-large": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 286,
+    "y": 730
+  },
+  "hotspot_poor-medium": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 610,
+    "y": 778
+  },
+  "hotspot_poor-small": {
+    "height": 22,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 108,
+    "y": 814
+  },
+  "hotspot_times_day_favorite-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 0,
+    "y": 500
+  },
+  "hotspot_times_day_normal-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 94,
+    "y": 500
+  },
+  "hotspot_times_evening_favorite-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 188,
+    "y": 500
+  },
+  "hotspot_times_evening_normal-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 282,
+    "y": 500
+  },
+  "hotspot_times_late_evening_favorite-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 376,
+    "y": 500
+  },
+  "hotspot_times_late_evening_normal-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 470,
+    "y": 500
+  },
+  "hotspot_times_morning_favorite-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 564,
+    "y": 500
+  },
+  "hotspot_times_morning_normal-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 658,
+    "y": 500
+  },
+  "hotspot_times_noon_favorite-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 752,
+    "y": 500
+  },
+  "hotspot_times_noon_normal-large": {
+    "height": 94,
+    "pixelRatio": 2,
+    "width": 94,
+    "x": 846,
+    "y": 500
+  },
+  "hotspot_very_high-large": {
+    "height": 42,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 346,
+    "y": 730
+  },
+  "hotspot_very_high-medium": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 650,
+    "y": 778
+  },
+  "hotspot_very_high-small": {
+    "height": 22,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 138,
+    "y": 814
+  },
+  "hotspot_wind_favorite": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 18,
+    "x": 406,
+    "y": 730
+  },
+  "hotspot_wind_required": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 18,
+    "x": 424,
+    "y": 730
+  },
+  "light_aircraft-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 78,
+    "x": 0,
+    "y": 670
+  },
+  "light_aircraft-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 62,
+    "x": 848,
+    "y": 670
+  },
+  "light_aircraft-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 778
+  },
+  "ls": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 78,
+    "y": 670
+  },
+  "ls-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 910,
+    "y": 670
+  },
+  "ls-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 48,
+    "y": 778
+  },
+  "ls_agri-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 138,
+    "y": 670
+  },
+  "ls_agri-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 940,
+    "y": 500
+  },
+  "ls_agri-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 84,
+    "y": 778
+  },
+  "ls_alti-large": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 198,
+    "y": 670
+  },
+  "ls_alti-medium": {
+    "height": 48,
+    "pixelRatio": 2,
+    "width": 48,
+    "x": 0,
+    "y": 730
+  },
+  "ls_alti-small": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 36,
+    "x": 120,
+    "y": 778
+  },
+  "navaid_dme-medium": {
+    "height": 26,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 862,
+    "y": 778
+  },
+  "navaid_dme-small": {
+    "height": 18,
+    "pixelRatio": 2,
+    "width": 20,
+    "x": 302,
+    "y": 814
+  },
+  "navaid_ndb-medium": {
+    "height": 60,
+    "pixelRatio": 2,
+    "width": 60,
+    "x": 258,
+    "y": 670
+  },
+  "navaid_ndb-small": {
+    "height": 40,
+    "pixelRatio": 2,
+    "width": 40,
+    "x": 442,
+    "y": 730
+  },
+  "navaid_rose-large": {
+    "height": 500,
+    "pixelRatio": 2,
+    "width": 500,
+    "x": 0,
+    "y": 0
+  },
+  "navaid_rose-medium": {
+    "height": 300,
+    "pixelRatio": 2,
+    "width": 300,
+    "x": 500,
+    "y": 0
+  },
+  "navaid_rose-small": {
+    "height": 200,
+    "pixelRatio": 2,
+    "width": 200,
+    "x": 800,
+    "y": 0
+  },
+  "navaid_tacan-medium": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 690,
+    "y": 778
+  },
+  "navaid_tacan-small": {
+    "height": 18,
+    "pixelRatio": 2,
+    "width": 20,
+    "x": 322,
+    "y": 814
+  },
+  "navaid_vor-medium": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 720,
+    "y": 778
+  },
+  "navaid_vor-small": {
+    "height": 18,
+    "pixelRatio": 2,
+    "width": 20,
+    "x": 342,
+    "y": 814
+  },
+  "navaid_vor_dme-medium": {
+    "height": 26,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 892,
+    "y": 778
+  },
+  "navaid_vor_dme-small": {
+    "height": 18,
+    "pixelRatio": 2,
+    "width": 20,
+    "x": 362,
+    "y": 814
+  },
+  "navaid_vortac-medium": {
+    "height": 26,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 922,
+    "y": 778
+  },
+  "navaid_vortac-small": {
+    "height": 18,
+    "pixelRatio": 2,
+    "width": 20,
+    "x": 382,
+    "y": 814
+  },
+  "obstacle_building": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 336,
+    "y": 778
+  },
+  "obstacle_chimney": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 750,
+    "y": 778
+  },
+  "obstacle_obstacle": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 778,
+    "y": 778
+  },
+  "obstacle_tower": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 806,
+    "y": 778
+  },
+  "obstacle_wind_turbine": {
+    "height": 28,
+    "pixelRatio": 2,
+    "width": 28,
+    "x": 834,
+    "y": 778
+  },
+  "parachute-large": {
+    "height": 46,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 48,
+    "y": 730
+  },
+  "parachute-small": {
+    "height": 34,
+    "pixelRatio": 2,
+    "width": 22,
+    "x": 254,
+    "y": 778
+  },
+  "rc_airfield": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 30,
+    "x": 366,
+    "y": 778
+  },
+  "reporting_point_compulsory-large": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 342,
+    "y": 670
+  },
+  "reporting_point_compulsory-medium": {
+    "height": 38,
+    "pixelRatio": 2,
+    "width": 38,
+    "x": 482,
+    "y": 730
+  },
+  "reporting_point_compulsory-small": {
+    "height": 26,
+    "pixelRatio": 2,
+    "width": 26,
+    "x": 952,
+    "y": 778
+  },
+  "reporting_point_request-large": {
+    "height": 50,
+    "pixelRatio": 2,
+    "width": 50,
+    "x": 392,
+    "y": 670
+  },
+  "reporting_point_request-medium": {
+    "height": 38,
+    "pixelRatio": 2,
+    "width": 38,
+    "x": 520,
+    "y": 730
+  },
+  "reporting_point_request-small": {
+    "height": 26,
+    "pixelRatio": 2,
+    "width": 26,
+    "x": 968,
+    "y": 730
+  },
+  "runway_paved-large": {
+    "height": 76,
+    "pixelRatio": 2,
+    "width": 14,
+    "x": 152,
+    "y": 594
+  },
+  "runway_paved-medium": {
+    "height": 68,
+    "pixelRatio": 2,
+    "width": 12,
+    "x": 340,
+    "y": 594
+  },
+  "runway_paved-small": {
+    "height": 52,
+    "pixelRatio": 2,
+    "width": 10,
+    "x": 318,
+    "y": 670
+  },
+  "runway_unpaved-large": {
+    "height": 76,
+    "pixelRatio": 2,
+    "width": 20,
+    "x": 166,
+    "y": 594
+  },
+  "runway_unpaved-medium": {
+    "height": 68,
+    "pixelRatio": 2,
+    "width": 18,
+    "x": 352,
+    "y": 594
+  },
+  "runway_unpaved-small": {
+    "height": 52,
+    "pixelRatio": 2,
+    "width": 14,
+    "x": 328,
+    "y": 670
+  },
+  "traffic_circuit_glider-medium": {
+    "height": 22,
+    "pixelRatio": 2,
+    "width": 98,
+    "x": 168,
+    "y": 814
+  },
+  "traffic_circuit_glider-small": {
+    "height": 18,
+    "pixelRatio": 2,
+    "width": 80,
+    "x": 402,
+    "y": 814
+  },
+  "traffic_circuit_motor_powered-medium": {
+    "height": 36,
+    "pixelRatio": 2,
+    "width": 98,
+    "x": 156,
+    "y": 778
+  },
+  "traffic_circuit_motor_powered-small": {
+    "height": 30,
+    "pixelRatio": 2,
+    "width": 78,
+    "x": 396,
+    "y": 778
+  },
+  "vertical_line_purple": {
+    "height": 76,
+    "pixelRatio": 2,
+    "width": 14,
+    "x": 186,
+    "y": 594
+  }
+}
