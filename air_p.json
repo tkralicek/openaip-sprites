@@ -1,0 +1,204 @@
+[
+	{
+		"Type" : "P_omezeny_prostor",
+		"Creation_date" : "2025-01-06T103027",
+		"Valid_from" : "2025-02-20T000000",
+		"Data" : {
+			"Object" : [
+				{
+					"Identification" : "LKP1",
+					"Name" : "PRAHA HRAD",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "4000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "500552.95N",
+							"Geo_long" : "0142437.57E"
+						},
+						{
+							"Geo_lat" : "500536.64N",
+							"Geo_long" : "0142457.42E"
+						},
+						{
+							"Geo_lat" : "500515.80N",
+							"Geo_long" : "0142435.16E"
+						},
+						{
+							"Geo_lat" : "500502.50N",
+							"Geo_long" : "0142430.96E"
+						},
+						{
+							"Geo_lat" : "500518.04N",
+							"Geo_long" : "0142314.45E"
+						},
+						{
+							"Geo_lat" : "500539.40N",
+							"Geo_long" : "0142317.77E"
+						},
+						{
+							"Geo_lat" : "500552.95N",
+							"Geo_long" : "0142437.57E"
+						}						
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKP2",
+					"Name" : "TEMELIN",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "491048.73N",
+							"Geo_long_cen" : "0142231.77E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.1"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP4",
+					"Name" : "VLASIM",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494223.79N",
+							"Geo_long" : "0145356.76E"
+						},
+						{
+							"Geo_lat" : "494053.30N",
+							"Geo_long" : "0145757.76E"
+						},
+						{
+							"Geo_lat" : "493940.74N",
+							"Geo_long" : "0145554.76E"
+						}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKP5",
+					"Name" : "PRCICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "493533.73N",
+							"Geo_long_cen" : "0143123.73E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.5"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP6",
+					"Name" : "SEMTIN",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "500404.64N",
+							"Geo_long_cen" : "0154241.54E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.15"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP7",
+					"Name" : "POLICKA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "494046.00N",
+							"Geo_long_cen" : "0161640.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP8",
+					"Name" : "MOST",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "4000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "503348.35N",
+							"Geo_long_cen" : "0133612.26E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.35"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP9",
+					"Name" : "DUKOVANY",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "490508.82N",
+							"Geo_long_cen" : "0160844.83E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.1"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP10",
+					"Name" : "USTI NAD LABEM",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "4000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "503923.20N",
+							"Geo_long_cen" : "0140112.60E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.5"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP11",
+					"Name" : "NERATOVICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "2000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "501630.00N",
+							"Geo_long_cen" : "0143110.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				},
+				{
+					"Identification" : "LKP12",
+					"Name" : "REZ",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "2000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "501044.71N",
+							"Geo_long_cen" : "0142148.70E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				}
+			]
+		}
+	}
+]

@@ -1,0 +1,296 @@
+[
+	{
+		"Type" : "R_omezeny_prostor",
+		"Creation_date" : "2023-10-13T113133",
+		"Valid_from" : "2023-11-01T000000",
+		"Data" : {
+			"Object" : [
+				{
+					"Identification" : "LKR1",
+					"Name" : "SUMAVA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491125.63N",
+							"Geo_long" : "0131838.25E"
+						},
+						{
+							"Geo_lat" : "490812.28N",
+							"Geo_long" : "0132658.19E"
+						},
+						{
+							"Geo_lat" : "490826.03N",
+							"Geo_long" : "0133054.26E"
+						},
+						{
+							"Geo_lat" : "490554.35N",
+							"Geo_long" : "0133528.03E"
+						},
+						{
+							"Geo_lat" : "490131.55N",
+							"Geo_long" : "0133959.93E"
+						},
+						{
+							"Geo_lat" : "485925.08N",
+							"Geo_long" : "0133953.14E"
+						},
+						{
+							"Geo_lat" : "485650.92N",
+							"Geo_long" : "0134248.02E"
+						},
+						{
+							"Geo_lat" : "485421.91N",
+							"Geo_long" : "0134314.60E"
+						},
+						{
+							"Geo_lat" : "485506.75N",
+							"Geo_long" : "0134810.86E"
+						},
+						{
+							"Geo_lat" : "485425.94N",
+							"Geo_long" : "0135300.50E"
+						},
+						{
+							"Geo_lat" : "484844.97N",
+							"Geo_long" : "0135746.88E"
+						},
+						{
+							"Geo_lat" : "484627.02N",
+							"Geo_long" : "0135540.14E"
+						},
+						{
+							"Geo_lat" : "484435.39N",
+							"Geo_long" : "0135803.51E"
+						}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "484238.7954N",
+							"State_Border_point_Geo_long" : "0135859.4622E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "484617.8329N",
+							"State_Border_point_Geo_long" : "0135022.4354E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "490713.7717N",
+							"State_Border_point_Geo_long" : "0131656.3647E"
+						}
+					],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "491125.63N",
+							"Geo_long" : "0131838.25E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKR2",
+					"Name" : "CESKE SVYCARSKO",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "505554.11N",
+							"Geo_long" : "0142722.31E"
+						},
+						{
+							"Geo_lat" : "505150.00N",
+							"Geo_long" : "0142711.59E"
+						},
+						{
+							"Geo_lat" : "505110.36N",
+							"Geo_long" : "0142344.98E"
+						},
+						{
+							"Geo_lat" : "505007.79N",
+							"Geo_long" : "0141941.50E"
+						},
+						{
+							"Geo_lat" : "505109.48N",
+							"Geo_long" : "0141958.00E"
+						}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "505210.7530N",
+							"State_Border_point_Geo_long" : "0141356.5589E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "505525.8227N",
+							"State_Border_point_Geo_long" : "0142407.8280E"
+						}
+					],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "505554.11N",
+							"Geo_long" : "0142722.31E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKR3",
+					"Name" : "KRNAP",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "504822.8112N",
+							"State_Border_point_Geo_long" : "0152531.4407E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "504034.2259N",
+							"State_Border_point_Geo_long" : "0155328.0797E"
+						}
+					],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "503738.89N",
+							"Geo_long" : "0155442.25E"
+						},
+						{
+							"Geo_lat" : "503752.27N",
+							"Geo_long" : "0154527.24E"
+						},
+						{
+							"Geo_lat" : "503929.58N",
+							"Geo_long" : "0153420.78E"
+						},
+						{
+							"Geo_lat" : "504822.8112N",
+							"Geo_long" : "0152531.4407E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKR4",
+					"Name" : "PODYJI",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "485419.41N",
+							"Geo_long" : "0155032.43E"
+						},
+						{
+							"Geo_lat" : "485350.16N",
+							"Geo_long" : "0155244.07E"
+						},
+						{
+							"Geo_lat" : "485241.81N",
+							"Geo_long" : "0155352.09E"
+						},
+						{
+							"Geo_lat" : "485214.67N",
+							"Geo_long" : "0155341.62E"
+						},
+						{
+							"Geo_lat" : "485153.99N",
+							"Geo_long" : "0155424.59E"
+						},
+						{
+							"Geo_lat" : "485125.94N",
+							"Geo_long" : "0155419.03E"
+						},
+						{
+							"Geo_lat" : "485051.04N",
+							"Geo_long" : "0155522.06E"
+						},
+						{
+							"Geo_lat" : "485056.79N",
+							"Geo_long" : "0155613.59E"
+						},
+						{
+							"Geo_lat" : "485034.70N",
+							"Geo_long" : "0155615.21E"
+						},
+						{
+							"Geo_lat" : "485029.00N",
+							"Geo_long" : "0155845.99E"
+						},
+						{
+							"Geo_lat" : "485120.24N",
+							"Geo_long" : "0155907.00E"
+						},
+						{
+							"Geo_lat" : "485116.67N",
+							"Geo_long" : "0160218.04E"
+						},
+						{
+							"Geo_lat" : "485034.95N",
+							"Geo_long" : "0160225.15E"
+						},
+						{
+							"Geo_lat" : "484937.87N",
+							"Geo_long" : "0160023.13E"
+						},
+						{
+							"Geo_lat" : "484915.49N",
+							"Geo_long" : "0160044.92E"
+						},
+						{
+							"Geo_lat" : "484804.68N",
+							"Geo_long" : "0155932.61E"
+						},
+						{
+							"Geo_lat" : "484844.86N",
+							"Geo_long" : "0155903.30E"
+						},
+						{
+							"Geo_lat" : "484844.04N",
+							"Geo_long" : "0155806.44E"
+						}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "484749.7896N",
+							"State_Border_point_Geo_long" : "0155806.6167E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "485229.0043N",
+							"State_Border_point_Geo_long" : "0154702.2872E"
+						}
+					],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "485243.07N",
+							"Geo_long" : "0154805.56E"
+						},
+						{
+							"Geo_lat" : "485321.39N",
+							"Geo_long" : "0154755.27E"
+						},
+						{
+							"Geo_lat" : "485419.41N",
+							"Geo_long" : "0155032.43E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKR9",
+					"Name" : "PRAHA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "500459.35N",
+							"Geo_long_cen" : "0142607.14E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						}
+					],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				}
+			]
+		}
+	}
+]

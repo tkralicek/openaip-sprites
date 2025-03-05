@@ -1,0 +1,1501 @@
+[
+	{
+		"Type" : "TSA_docasne_vyhrazeny_prostor",
+		"Creation_date" : "2024-09-16T112600",
+		"Valid_from" : "2024-09-21T000000",
+		"Data" : {
+			"Object" : [
+				{
+					"Identification" : "LKTSA102 ROZ6",
+					"Name" : "ROZ6 DOUPOV",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 235",
+					"Polygon_coord" : [
+{
+							"Geo_lat" : "502144.00N",
+							"Geo_long" : "0130613.00E"
+						},
+						{},						
+						{
+							"Geo_lat" : "502104.00N",
+							"Geo_long" : "0131347.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501835.00N",
+							"Geo_long" : "0131345.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501640.00N",
+							"Geo_long" : "0131406.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501251.65N",
+							"Geo_long" : "0131549.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "501126.00N",
+							"Geo_long" : "0131032.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501059.00N",
+							"Geo_long" : "0130626.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501142.50N",
+							"Geo_long" : "0130122.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501151.00N",
+							"Geo_long" : "0130101.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501339.00N",
+							"Geo_long" : "0130055.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501750.42N",
+							"Geo_long" : "0130119.26E"
+						},
+						{},
+						{
+							"Geo_lat" : "502011.00N",
+							"Geo_long" : "0130300.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA1",
+					"Name" : "BOLETICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "485459.73N",
+							"Geo_long" : "0140756.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "484832.66N",
+							"Geo_long" : "0141616.87E"
+						},
+						{},
+						{
+							"Geo_lat" : "484620.70N",
+							"Geo_long" : "0140156.84E"
+						},
+						{},
+						{
+							"Geo_lat" : "485441.66N",
+							"Geo_long" : "0135333.78E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA2",
+					"Name" : "BREZINA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492918.00N",
+							"Geo_long" : "0165736.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492736.00N",
+							"Geo_long" : "0165840.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492313.00N",
+							"Geo_long" : "0170128.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492201.00N",
+							"Geo_long" : "0170053.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492043.00N",
+							"Geo_long" : "0170014.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "491913.00N",
+							"Geo_long" : "0165841.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "491943.00N",
+							"Geo_long" : "0165505.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492606.00N",
+							"Geo_long" : "0165358.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492800.00N",
+							"Geo_long" : "0165246.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA2A",
+					"Name" : "BREZINA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492918.00N",
+							"Geo_long" : "0165736.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492736.00N",
+							"Geo_long" : "0165840.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492606.00N",
+							"Geo_long" : "0165358.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492800.00N",
+							"Geo_long" : "0165246.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA2B",
+					"Name" : "BREZINA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492736.00N",
+							"Geo_long" : "0165840.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492313.00N",
+							"Geo_long" : "0170128.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492201.00N",
+							"Geo_long" : "0170053.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "491943.00N",
+							"Geo_long" : "0165505.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492606.00N",
+							"Geo_long" : "0165358.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA2C",
+					"Name" : "BREZINA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492201.00N",
+							"Geo_long" : "0170053.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492043.00N",
+							"Geo_long" : "0170014.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "491913.00N",
+							"Geo_long" : "0165841.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "491943.00N",
+							"Geo_long" : "0165505.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA3",
+					"Name" : "LIBAVA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494547.94N",
+							"Geo_long" : "0174053.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "494216.93N",
+							"Geo_long" : "0174320.75E"
+						},
+						{},
+						{
+							"Geo_lat" : "493858.84N",
+							"Geo_long" : "0173817.85E"
+						},
+						{},
+						{
+							"Geo_lat" : "493413.89N",
+							"Geo_long" : "0173740.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493322.90N",
+							"Geo_long" : "0173239.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493325.05N",
+							"Geo_long" : "0173151.04E"
+						},
+						{},
+						{
+							"Geo_lat" : "493440.89N",
+							"Geo_long" : "0172859.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493558.88N",
+							"Geo_long" : "0172350.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "493730.21N",
+							"Geo_long" : "0172420.93E"
+						},
+						{},
+						{
+							"Geo_lat" : "494431.88N",
+							"Geo_long" : "0172635.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "494635.89N",
+							"Geo_long" : "0173227.73E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA3A",
+					"Name" : "LIBAVA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494547.94N",
+							"Geo_long" : "0174053.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "494216.93N",
+							"Geo_long" : "0174320.75E"
+						},
+						{},
+						{
+							"Geo_lat" : "493858.84N",
+							"Geo_long" : "0173817.85E"
+						},
+						{},
+						{
+							"Geo_lat" : "493617.22N",
+							"Geo_long" : "0173215.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "493440.89N",
+							"Geo_long" : "0172859.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493558.88N",
+							"Geo_long" : "0172350.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "493730.21N",
+							"Geo_long" : "0172420.93E"
+						},
+						{},
+						{
+							"Geo_lat" : "494431.88N",
+							"Geo_long" : "0172635.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "494635.89N",
+							"Geo_long" : "0173227.73E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA3B",
+					"Name" : "LIBAVA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "493858.84N",
+							"Geo_long" : "0173817.85E"
+						},
+						{},
+						{
+							"Geo_lat" : "493413.89N",
+							"Geo_long" : "0173740.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493322.90N",
+							"Geo_long" : "0173239.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493325.05N",
+							"Geo_long" : "0173151.04E"
+						},
+						{},
+						{
+							"Geo_lat" : "493440.89N",
+							"Geo_long" : "0172859.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493617.22N",
+							"Geo_long" : "0173215.72E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA4",
+					"Name" : "HRADISTE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "502104.00N",
+							"Geo_long" : "0131347.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501835.00N",
+							"Geo_long" : "0131345.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501640.00N",
+							"Geo_long" : "0131406.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501251.65N",
+							"Geo_long" : "0131549.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "501126.00N",
+							"Geo_long" : "0131032.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501059.00N",
+							"Geo_long" : "0130626.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501142.50N",
+							"Geo_long" : "0130122.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501151.00N",
+							"Geo_long" : "0130101.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501339.00N",
+							"Geo_long" : "0130055.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501750.42N",
+							"Geo_long" : "0130119.26E"
+						},
+						{},
+						{
+							"Geo_lat" : "502011.00N",
+							"Geo_long" : "0130300.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "502144.00N",
+							"Geo_long" : "0130613.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA4A",
+					"Name" : "HRADISTE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501059.00N",
+							"Geo_long" : "0130626.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501142.50N",
+							"Geo_long" : "0130122.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501151.00N",
+							"Geo_long" : "0130101.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501339.00N",
+							"Geo_long" : "0130055.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA4B",
+					"Name" : "HRADISTE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501126.00N",
+							"Geo_long" : "0131032.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501059.00N",
+							"Geo_long" : "0130626.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501339.00N",
+							"Geo_long" : "0130055.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA4C",
+					"Name" : "HRADISTE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501835.00N",
+							"Geo_long" : "0131345.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501640.00N",
+							"Geo_long" : "0131406.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501251.65N",
+							"Geo_long" : "0131549.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "501126.00N",
+							"Geo_long" : "0131032.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501339.00N",
+							"Geo_long" : "0130055.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501750.42N",
+							"Geo_long" : "0130119.26E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA4D",
+					"Name" : "HRADISTE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "502104.00N",
+							"Geo_long" : "0131347.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501835.00N",
+							"Geo_long" : "0131345.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501750.42N",
+							"Geo_long" : "0130119.26E"
+						},
+						{},
+						{
+							"Geo_lat" : "502011.00N",
+							"Geo_long" : "0130300.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "502144.00N",
+							"Geo_long" : "0130613.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA7",
+					"Name" : "JINCE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494942.00N",
+							"Geo_long" : "0135617.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494832.00N",
+							"Geo_long" : "0135750.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494612.00N",
+							"Geo_long" : "0140056.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494305.00N",
+							"Geo_long" : "0135640.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494042.00N",
+							"Geo_long" : "0135440.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494230.00N",
+							"Geo_long" : "0134925.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494544.00N",
+							"Geo_long" : "0135100.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494744.00N",
+							"Geo_long" : "0135200.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA7A",
+					"Name" : "JINCE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494544.00N",
+							"Geo_long" : "0135100.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494308.00N",
+							"Geo_long" : "0135256.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494305.00N",
+							"Geo_long" : "0135640.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494042.00N",
+							"Geo_long" : "0135440.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494230.00N",
+							"Geo_long" : "0134925.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA7B",
+					"Name" : "JINCE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494832.00N",
+							"Geo_long" : "0135750.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494612.00N",
+							"Geo_long" : "0140056.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494305.00N",
+							"Geo_long" : "0135640.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494308.00N",
+							"Geo_long" : "0135256.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494544.00N",
+							"Geo_long" : "0135100.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA7C",
+					"Name" : "JINCE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494942.00N",
+							"Geo_long" : "0135617.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494832.00N",
+							"Geo_long" : "0135750.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494544.00N",
+							"Geo_long" : "0135100.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494744.00N",
+							"Geo_long" : "0135200.00E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA20",
+					"Name" : "ZDIREC",
+					"Lower_limit" : "300 ft AGL",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "495017.74N",
+							"Geo_long" : "0153723.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "494609.37N",
+							"Geo_long" : "0155058.58E"
+						},
+						{},
+						{
+							"Geo_lat" : "493335.75N",
+							"Geo_long" : "0161318.88E"
+						},
+						{},
+						{
+							"Geo_lat" : "493044.56N",
+							"Geo_long" : "0160640.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "494442.77N",
+							"Geo_long" : "0154217.67E"
+						},
+						{},
+						{
+							"Geo_lat" : "494638.74N",
+							"Geo_long" : "0153113.60E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA21",
+					"Name" : "MERIN",
+					"Lower_limit" : "300 ft AGL",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "493335.75N",
+							"Geo_long" : "0161318.88E"
+						},
+						{},
+						{
+							"Geo_lat" : "493005.99N",
+							"Geo_long" : "0161929.63E"
+						},
+						{},
+						{
+							"Geo_lat" : "492716.04N",
+							"Geo_long" : "0161212.59E"
+						},
+						{},
+						{
+							"Geo_lat" : "492423.95N",
+							"Geo_long" : "0160452.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "491852.80N",
+							"Geo_long" : "0155718.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "491702.65N",
+							"Geo_long" : "0155459.31E"
+						},
+						{},
+						{
+							"Geo_lat" : "491922.58N",
+							"Geo_long" : "0154639.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "492307.62N",
+							"Geo_long" : "0155237.73E"
+						},
+						{},
+						{
+							"Geo_lat" : "493044.56N",
+							"Geo_long" : "0160640.45E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA22",
+					"Name" : "OPATOV",
+					"Lower_limit" : "300 ft AGL",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491922.58N",
+							"Geo_long" : "0154639.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "491702.65N",
+							"Geo_long" : "0155459.31E"
+						},
+						{},
+						{
+							"Geo_lat" : "491448.80N",
+							"Geo_long" : "0155205.75E"
+						},
+						{},
+						{
+							"Geo_lat" : "491108.75N",
+							"Geo_long" : "0154653.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "490824.01N",
+							"Geo_long" : "0154145.46E"
+						},
+						{},
+						{
+							"Geo_lat" : "490653.48N",
+							"Geo_long" : "0153203.66E"
+						},
+						{},
+						{
+							"Geo_lat" : "490244.99N",
+							"Geo_long" : "0150555.93E"
+						},
+						{},
+						{
+							"Geo_lat" : "490306.72N",
+							"Geo_long" : "0145024.82E"
+						},
+						{},
+						{
+							"Geo_lat" : "490306.37N",
+							"Geo_long" : "0144514.26E"
+						},
+						{},
+						{
+							"Geo_lat" : "490658.50N",
+							"Geo_long" : "0144636.58E"
+						},
+						{},
+						{
+							"Geo_lat" : "490641.22N",
+							"Geo_long" : "0145210.06E"
+						},
+						{},
+						{
+							"Geo_lat" : "490606.51N",
+							"Geo_long" : "0150304.55E"
+						},
+						{},
+						{
+							"Geo_lat" : "491129.67N",
+							"Geo_long" : "0153308.93E"
+						},
+						{},
+						{
+							"Geo_lat" : "491622.73N",
+							"Geo_long" : "0154225.40E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA24",
+					"Name" : "LITOVEL",
+					"Lower_limit" : "300 ft AGL",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494516.63N",
+							"Geo_long" : "0164047.88E"
+						},
+						{},
+						{
+							"Geo_lat" : "494225.85N",
+							"Geo_long" : "0172328.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "494431.88N",
+							"Geo_long" : "0172635.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "493730.21N",
+							"Geo_long" : "0172420.93E"
+						},
+						{},
+						{
+							"Geo_lat" : "493957.90N",
+							"Geo_long" : "0164507.90E"
+						},
+						{},
+						{
+							"Geo_lat" : "493005.99N",
+							"Geo_long" : "0161929.63E"
+						},
+						{},
+						{
+							"Geo_lat" : "492716.04N",
+							"Geo_long" : "0161212.59E"
+						},
+						{},
+						{
+							"Geo_lat" : "493044.56N",
+							"Geo_long" : "0160640.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "493335.75N",
+							"Geo_long" : "0161318.88E"
+						},
+						{},
+						{
+							"Geo_lat" : "494255.11N",
+							"Geo_long" : "0163512.61E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA26",
+					"Name" : "PRAVONIN",
+					"Lower_limit" : "300 ft AGL",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "495733.00N",
+							"Geo_long" : "0151156.98E"
+						},
+						{},
+						{
+							"Geo_lat" : "495605.78N",
+							"Geo_long" : "0151204.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "495354.69N",
+							"Geo_long" : "0151511.69E"
+						},
+						{},
+						{
+							"Geo_lat" : "495035.84N",
+							"Geo_long" : "0150757.97E"
+						},
+						{},
+						{
+							"Geo_lat" : "493713.04N",
+							"Geo_long" : "0150320.82E"
+						},
+						{},
+						{
+							"Geo_lat" : "493046.42N",
+							"Geo_long" : "0144134.91E"
+						},
+						{},
+						{
+							"Geo_lat" : "492749.36N",
+							"Geo_long" : "0142403.35E"
+						},
+						{},
+						{
+							"Geo_lat" : "493041.94N",
+							"Geo_long" : "0142509.71E"
+						},
+						{},
+						{
+							"Geo_lat" : "493326.68N",
+							"Geo_long" : "0144006.09E"
+						},
+						{},
+						{
+							"Geo_lat" : "494004.02N",
+							"Geo_long" : "0145839.06E"
+						},
+						{},
+						{
+							"Geo_lat" : "495239.84N",
+							"Geo_long" : "0150319.90E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA27",
+					"Name" : "HUMPOLEC",
+					"Lower_limit" : "300 ft AGL",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "495017.74N",
+							"Geo_long" : "0153723.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "494521.43N",
+							"Geo_long" : "0153853.98E"
+						},
+						{},
+						{
+							"Geo_lat" : "493954.56N",
+							"Geo_long" : "0153347.36E"
+						},
+						{},
+						{
+							"Geo_lat" : "493726.38N",
+							"Geo_long" : "0152739.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "493103.99N",
+							"Geo_long" : "0152712.46E"
+						},
+						{},
+						{
+							"Geo_lat" : "492158.21N",
+							"Geo_long" : "0151635.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "491410.97N",
+							"Geo_long" : "0145519.35E"
+						},
+						{},
+						{
+							"Geo_lat" : "490957.74N",
+							"Geo_long" : "0145346.79E"
+						},
+						{},
+						{
+							"Geo_lat" : "490641.22N",
+							"Geo_long" : "0145210.06E"
+						},
+						{},
+						{
+							"Geo_lat" : "490658.50N",
+							"Geo_long" : "0144636.58E"
+						},
+						{},
+						{
+							"Geo_lat" : "491551.03N",
+							"Geo_long" : "0144948.92E"
+						},
+						{},
+						{
+							"Geo_lat" : "492445.44N",
+							"Geo_long" : "0151427.75E"
+						},
+						{},
+						{
+							"Geo_lat" : "493215.15N",
+							"Geo_long" : "0152213.16E"
+						},
+						{},
+						{
+							"Geo_lat" : "493933.98N",
+							"Geo_long" : "0152244.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494314.36N",
+							"Geo_long" : "0153115.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "494638.74N",
+							"Geo_long" : "0153113.60E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA42",
+					"Name" : "KRKONOSE",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 225",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "504446.63N",
+							"Geo_long" : "0153503.06E"
+						},
+						{},
+						{
+							"Geo_lat" : "503446.69N",
+							"Geo_long" : "0160340.51E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "503909.7194N",
+							"State_Border_point_Geo_long" : "0160521.0148E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "504637.2141N",
+							"State_Border_point_Geo_long" : "0153127.5135E"
+						}
+					],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA43",
+					"Name" : "ORLICKE HORY",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 225",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "503446.69N",
+							"Geo_long" : "0160340.51E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "503909.7194N",
+							"State_Border_point_Geo_long" : "0160521.0148E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "501253.8807N",
+							"State_Border_point_Geo_long" : "0163312.3504E"
+						}
+					],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "501131.01N",
+							"Geo_long" : "0162926.48E"
+						},
+						{
+							"Geo_lat" : "502634.63N",
+							"Geo_long" : "0160957.56E"
+						},
+						{
+							"Geo_lat" : "503401.72N",
+							"Geo_long" : "0161422.71E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTSA44",
+					"Name" : "JESENIKY",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 235",
+					"Polygon_coord" : [],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "500547.2004N",
+							"State_Border_point_Geo_long" : "0164218.5277E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "502150.4633N",
+							"State_Border_point_Geo_long" : "0171204.1297E"
+						}
+					],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "501324.08N",
+							"Geo_long" : "0171142.68E"
+						},
+						{
+							"Geo_lat" : "495942.58N",
+							"Geo_long" : "0172556.88E"
+						},
+						{
+							"Geo_lat" : "495900.00N",
+							"Geo_long" : "0171600.00E"
+						},
+						{
+							"Geo_lat" : "501058.88N",
+							"Geo_long" : "0170253.67E"
+						},
+						{
+							"Geo_lat" : "500304.96N",
+							"Geo_long" : "0164345.04E"
+						},
+						{
+							"Geo_lat" : "500547.2004N",
+							"Geo_long" : "0164218.5277E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTSA46",
+					"Name" : "MIKULOVICE",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 215",
+					"Polygon_coord" : [],
+					"Circle_coord" : [],
+					"State_Border_point" : [
+						{
+							"State_Border_point_Geo_lat" : "502150.4633N",
+							"State_Border_point_Geo_long" : "0171204.1297E"
+						},
+						{
+							"State_Border_point_Geo_lat" : "501510.8745N",
+							"State_Border_point_Geo_long" : "0172643.0294E"
+						}
+					],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "500952.69N",
+							"Geo_long" : "0172623.38E"
+						},
+						{
+							"Geo_lat" : "500029.92N",
+							"Geo_long" : "0173715.27E"
+						},
+						{
+							"Geo_lat" : "495942.58N",
+							"Geo_long" : "0172556.88E"
+						},
+						{
+							"Geo_lat" : "501324.08N",
+							"Geo_long" : "0171142.68E"
+						},
+						{
+							"Geo_lat" : "502150.4633N",
+							"Geo_long" : "0171204.1297E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTSA47",
+					"Name" : "BRUNTAL",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 195",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "495900.00N",
+							"Geo_long" : "0171600.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "495942.58N",
+							"Geo_long" : "0172556.88E"
+						},
+						{},
+						{
+							"Geo_lat" : "500029.92N",
+							"Geo_long" : "0173715.27E"
+						},
+						{},
+						{
+							"Geo_lat" : "495335.63N",
+							"Geo_long" : "0174511.79E"
+						},
+						{},
+						{
+							"Geo_lat" : "494700.57N",
+							"Geo_long" : "0174339.37E"
+						},
+						{},
+						{
+							"Geo_lat" : "494635.89N",
+							"Geo_long" : "0173227.73E"
+						},
+						{}
+					],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA48",
+					"Name" : "HANUSOVICE",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 235",
+					"Polygon_coord" : [],
+					"Circle_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : [
+						{
+							"Geo_lat" : "501058.88N",
+							"Geo_long" : "0170253.67E"
+						},
+						{
+							"Geo_lat" : "495900.00N",
+							"Geo_long" : "0171600.00E"
+						},
+						{
+							"Geo_lat" : "500304.96N",
+							"Geo_long" : "0164345.04E"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTSA49",
+					"Name" : "KRNOV",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 185",
+					"Cyrcle_coord" : [],
+					"State_Border_point" : [
+				{
+						"State_Border_point_Geo_lat" : "501510.8745N",
+						"State_Border_point_Geo_long" : "0172643.0294E"
+				},
+				{
+						"State_Border_point_Geo_lat" : "501625.2919N",
+						"State_Border_point_Geo_long" : "0173818.3752E"
+				}
+				],
+					"Polygon_coord" : [
+				{
+						"Geo_lat" : "501212.3487N",
+						"Geo_long" : "0174401.3537E"
+				},
+				{}
+			],
+					"State_border_point" : [
+				{
+						"State_Border_point_Geo_lat" : "501212.3487N",
+						"State_Border_point_Geo_long" : "0174401.3537E"
+				},
+				{
+						"State_Border_point_Geo_lat" : "500109.7162N",
+						"State_Border_point_Geo_long" : "0174658.5846E"
+				}
+			],
+					"Polygon_continuing_coord" : [
+				{
+						"Geo_lat" : "495335.63N",
+						"Geo_long" : "0174511.79E"
+				},
+				{
+						"Geo_lat" : "500029.92N",
+						"Geo_long" : "0173715.27E"
+				},
+				{	
+						"Geo_lat" : "500952.69N",
+						"Geo_long" : "0172623.38E"
+				},
+				{
+						"Geo_lat" : "501510.8745N",
+						"Geo_long" : "0172643.0294E"
+				}
+					]
+				},
+				{
+					"Identification" : "LKTSA59",
+					"Name" : "BZENEC",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3500 ft AMSL",
+					"Circle_coord" : [
+				{
+						"Geo_lat_cen" : "485720.75N",
+						"Geo_long_cen" : "01628.95E",
+						"Radius_unit" : "NM",
+						"Radius_value" : "0.3"
+				}
+					],
+					"Polygon_coord" : [],
+					"State_Border_point" : [],
+					"Polygon_continuing_coord" : []
+				},
+				{
+					"Identification" : "LKTSA60",
+					"Name" : "PISEK",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+				{
+							"Geo_lat" : "492028.00N",
+							"Geo_long" : "0140432.00E"
+				}
+					],						
+					"Circle_coord" : [
+				{
+							"Geo_lat_cen" : "492022N",
+							"Geo_long_cen" : "0140650E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.5"
+				}
+					],
+					"Polygon_continuing_coord" : [
+				{
+							"Geo_lat" : "491906.00N",
+							"Geo_long" : "0140804.00E"
+				},
+				{
+							"Geo_lat" : "491949.00N",
+							"Geo_long" : "0140637.00E"
+				}
+					],
+					"State_Border_point" : []
+				}
+			]
+		}
+	}
+]

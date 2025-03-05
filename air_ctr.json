@@ -1,0 +1,601 @@
+[
+	{
+		"Type" : "CTR_rizeny_okrsek",
+		"Creation_date" : "2021-12-21T144504",
+		"Valid_from" : "2021-12-30T000000",
+		"Data" : {
+			"Object" : [
+				{
+					"Identification" : "LKCV",
+					"Name" : "MCTR CASLAV",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "500610.80N",
+							"Geo_long" : "0151436.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "500322.78N",
+							"Geo_long" : "0152425.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "495547.79N",
+							"Geo_long" : "0153511.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "495017.74N",
+							"Geo_long" : "0153723.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "494638.74N",
+							"Geo_long" : "0153113.60E"
+						},
+						{},
+						{
+							"Geo_lat" : "494931.78N",
+							"Geo_long" : "0152127.70E"
+						},
+						{},
+						{
+							"Geo_lat" : "495354.69N",
+							"Geo_long" : "0151511.69E"
+						},
+						{},
+						{
+							"Geo_lat" : "495605.78N",
+							"Geo_long" : "0151204.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "495733.00N",
+							"Geo_long" : "0151156.98E"
+						},
+						{},
+						{
+							"Geo_lat" : "500016.76N",
+							"Geo_long" : "0151141.67E"
+						},
+						{},
+						{
+							"Geo_lat" : "500229.78N",
+							"Geo_long" : "0150826.71E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKKB",
+					"Name" : "MCTR KBELY",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "2000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501328.91N",
+							"Geo_long" : "0144741.96E"
+						},
+						{},
+						{
+							"Geo_lat" : "500905.08N",
+							"Geo_long" : "0144943.92E"
+						},
+						{},
+						{
+							"Geo_lat" : "495847.84N",
+							"Geo_long" : "0143727.62E"
+						},
+						{},
+						{
+							"Geo_lat" : "500058.45N",
+							"Geo_long" : "0143301.14E"
+						},
+						{},
+						{
+							"Geo_lat" : "500310.23N",
+							"Geo_long" : "0142830.47E"
+						},
+						{},
+						{
+							"Geo_lat" : "500428.41N",
+							"Geo_long" : "0142549.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "500653.26N",
+							"Geo_long" : "0142552.39E"
+						},
+						{},
+						{
+							"Geo_lat" : "500916.15N",
+							"Geo_long" : "0143343.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "501013.99N",
+							"Geo_long" : "0143300.66E"
+						},
+						{},
+						{
+							"Geo_lat" : "501203.80N",
+							"Geo_long" : "0143827.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "501058.43N",
+							"Geo_long" : "0143921.58E"
+						},
+						{},
+						{
+							"Geo_lat" : "501133.35N",
+							"Geo_long" : "0144117.44E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKKU",
+					"Name" : "CTR KUNOVICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "485550.00N",
+							"Geo_long" : "0172642.00E"
+						},
+						{
+							"Geo_lat_cen" : "490146N",
+							"Geo_long_cen" : "0172623E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "6"
+						},
+						{
+							"Geo_lat" : "490335.75N",
+							"Geo_long" : "0173458.86E"
+						},
+						{},
+						{
+							"Geo_lat" : "491111.54N",
+							"Geo_long" : "0174030.99E"
+						},
+						{},
+						{
+							"Geo_lat" : "491303.27N",
+							"Geo_long" : "0173434.48E"
+						},
+						{},
+						{
+							"Geo_lat" : "490917.00N",
+							"Geo_long" : "0172712.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "490742.00N",
+							"Geo_long" : "0172604.00E"
+						},
+						{
+							"Geo_lat_cen" : "490146N",
+							"Geo_long_cen" : "0172623E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "6"
+						},
+						{
+							"Geo_lat" : "485808.00N",
+							"Geo_long" : "0171915.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "485607.00N",
+							"Geo_long" : "0171749.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "485426.00N",
+							"Geo_long" : "0172542.00E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKKV",
+					"Name" : "CTR KARLOVY VARY",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3500 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501918.00N",
+							"Geo_long" : "0124329.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501152.37N",
+							"Geo_long" : "0131037.24E"
+						},
+						{},
+						{
+							"Geo_lat" : "500611.71N",
+							"Geo_long" : "0130649.26E"
+						},
+						{},
+						{
+							"Geo_lat" : "500744.98N",
+							"Geo_long" : "0130110.78E"
+						},
+						{
+							"Geo_lat_cen" : "501211N",
+							"Geo_long_cen" : "0125454E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "6"
+						},
+						{
+							"Geo_lat" : "501201.21N",
+							"Geo_long" : "0124533.90E"
+						},
+						{},
+						{
+							"Geo_lat" : "501336.29N",
+							"Geo_long" : "0123943.54E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKMT",
+					"Name" : "CTR MOSNOV",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "2500 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494416.06N",
+							"Geo_long" : "0181642.91E"
+						},
+						{
+							"Geo_lat_cen" : "494146N",
+							"Geo_long_cen" : "0180639E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "7"
+						},
+						{
+							"Geo_lat" : "493521.86N",
+							"Geo_long" : "0180219.96E"
+						},
+						{},
+						{
+							"Geo_lat" : "493305.29N",
+							"Geo_long" : "0175840.69E"
+						},
+						{},
+						{
+							"Geo_lat" : "493323.71N",
+							"Geo_long" : "0175813.59E"
+						},
+						{},
+						{
+							"Geo_lat" : "493658.87N",
+							"Geo_long" : "0175256.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "493915.61N",
+							"Geo_long" : "0175635.76E"
+						},
+						{
+							"Geo_lat_cen" : "494146N",
+							"Geo_long_cen" : "0180639E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "7"
+						},
+						{
+							"Geo_lat" : "494811.58N",
+							"Geo_long" : "0181053.42E"
+						},
+						{},
+						{
+							"Geo_lat" : "495030.43N",
+							"Geo_long" : "0181446.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494638.00N",
+							"Geo_long" : "0182030.00E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKNA",
+					"Name" : "MCTR NAMEST",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491852.80N",
+							"Geo_long" : "0155718.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "491706.99N",
+							"Geo_long" : "0160844.23E"
+						},
+						{},
+						{
+							"Geo_lat" : "491347.85N",
+							"Geo_long" : "0161506.71E"
+						},
+						{},
+						{
+							"Geo_lat" : "491204.31N",
+							"Geo_long" : "0161824.29E"
+						},
+						{},
+						{
+							"Geo_lat" : "490549.87N",
+							"Geo_long" : "0162246.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "490103.80N",
+							"Geo_long" : "0161736.85E"
+						},
+						{},
+						{
+							"Geo_lat" : "490259.79N",
+							"Geo_long" : "0160726.79E"
+						},
+						{},
+						{
+							"Geo_lat" : "490847.78N",
+							"Geo_long" : "0155647.80E"
+						},
+						{},
+						{
+							"Geo_lat" : "491448.80N",
+							"Geo_long" : "0155205.75E"
+						},
+						{},
+						{
+							"Geo_lat" : "491702.65N",
+							"Geo_long" : "0155459.31E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKPD",
+					"Name" : "MCTR PARDUBICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "5000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "500559.80N",
+							"Geo_long" : "0155133.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "500258.82N",
+							"Geo_long" : "0160116.66E"
+						},
+						{},
+						{
+							"Geo_lat" : "495734.84N",
+							"Geo_long" : "0160052.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "495516.82N",
+							"Geo_long" : "0155046.70E"
+						},
+						{},
+						{
+							"Geo_lat" : "495547.79N",
+							"Geo_long" : "0153511.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "500322.78N",
+							"Geo_long" : "0152425.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "500620.80N",
+							"Geo_long" : "0153744.65E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKPR",
+					"Name" : "CTR RUZYNE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3500 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501402.98N",
+							"Geo_long" : "0141032.84E"
+						},
+						{},
+						{
+							"Geo_lat" : "501322.33N",
+							"Geo_long" : "0141452.39E"
+						},
+						{},
+						{
+							"Geo_lat" : "501032.03N",
+							"Geo_long" : "0143247.42E"
+						},
+						{},
+						{
+							"Geo_lat" : "500916.15N",
+							"Geo_long" : "0143343.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "500653.26N",
+							"Geo_long" : "0142552.39E"
+						},
+						{},
+						{
+							"Geo_lat" : "500428.41N",
+							"Geo_long" : "0142549.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "500310.23N",
+							"Geo_long" : "0142830.47E"
+						},
+						{
+							"Geo_lat_cen" : "500544.80N",
+							"Geo_long_cen" : "0141555.81E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "8.5"
+						},
+						{
+							"Geo_lat" : "495933.96N",
+							"Geo_long" : "0142458.76E"
+						},
+						{},
+						{
+							"Geo_lat" : "500006.17N",
+							"Geo_long" : "0142055.49E"
+						},
+						{
+							"Geo_lat_cen" : "500544.80N",
+							"Geo_long_cen" : "0141555.81E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "6.5"
+						},
+						{
+							"Geo_lat" : "500142.19N",
+							"Geo_long" : "0140801.96E"
+						},
+						{},
+						{
+							"Geo_lat" : "500038.81N",
+							"Geo_long" : "0140425.41E"
+						},
+						{
+							"Geo_lat_cen" : "500544.80N",
+							"Geo_long_cen" : "0141555.81E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "9.0"
+						},
+						{
+							"Geo_lat" : "500450.13N",
+							"Geo_long" : "0140201.36E"
+						},
+						{},
+						{
+							"Geo_lat" : "500637.44N",
+							"Geo_long" : "0140757.06E"
+						},
+						{},
+						{
+							"Geo_lat" : "500902.68N",
+							"Geo_long" : "0140254.89E"
+						},
+						{
+							"Geo_lat_cen" : "500544.80N",
+							"Geo_long_cen" : "0141555.81E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "9.0"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTB",
+					"Name" : "CTR TURANY",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "2500 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491320N",
+							"Geo_long" : "0163305E"
+						},
+						{
+							"Geo_lat_cen" : "490905N",
+							"Geo_long_cen" : "0164138E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "7"
+						},
+						{
+							"Geo_lat" : "491056N",
+							"Geo_long" : "0165159E"
+						},
+						{},
+						{
+							"Geo_lat" : "491031N",
+							"Geo_long" : "0165711E"
+						},
+						{},
+						{
+							"Geo_lat" : "490510N",
+							"Geo_long" : "0165608E"
+						},
+						{},
+						{
+							"Geo_lat" : "490535N",
+							"Geo_long" : "0165057E"
+						},
+						{
+							"Geo_lat_cen" : "490905N",
+							"Geo_long_cen" : "0164138E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "7"
+						},
+						{
+							"Geo_lat" : "490715N",
+							"Geo_long" : "0163116E"
+						},
+						{},
+						{
+							"Geo_lat" : "490749N",
+							"Geo_long" : "0162641E"
+						},
+						{},
+						{
+							"Geo_lat" : "491420N",
+							"Geo_long" : "0162757E"
+						},
+						{}
+					]
+				},
+				{
+					"Identification" : "LKVO",
+					"Name" : "CTR VODOCHODY",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3500 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501846.06N",
+							"Geo_long" : "0142007.04E"
+						},
+						{},
+						{
+							"Geo_lat" : "501404.96N",
+							"Geo_long" : "0143408.27E"
+						},
+						{},
+						{
+							"Geo_lat" : "501032.03N",
+							"Geo_long" : "0143247.42E"
+						},
+						{},
+						{
+							"Geo_lat" : "501322.33N",
+							"Geo_long" : "0141452.39E"
+						},
+						{},
+						{
+							"Geo_lat" : "501712.44N",
+							"Geo_long" : "0141620.48E"
+						},
+						{}
+					]
+				}
+			]
+		}
+	}
+]

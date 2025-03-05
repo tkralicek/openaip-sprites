@@ -1,0 +1,63 @@
+[
+	{
+		"Type" : "RMZ_oblast_s_povinnym_radiovym_spojenim",
+		"Creation_date" : "2023-04-17T140318",
+		"Valid_from" : "2023-07-13T000000",
+		"Data" : {
+		"Object" : [
+			{
+			"Identification" : "LKRMZ1",
+			"Name" : "RMZ1 CESKE BUDEJOVICE",
+			"Lower_limit" : "3500 ft AMSL",
+			"Upper_limit" : "FL 95",
+			"Polygon_coord" : [
+				{
+					"Geo_lat" : "490240.66N",
+					"Geo_long" : "0140925.97E"
+				},
+				{
+					"Geo_lat" : "490240.62N",
+					"Geo_long" : "0141855.71E"
+				},
+				{
+					"Geo_lat" : "485746.97N",
+					"Geo_long" : "0143308.04E"
+				},
+				{
+					"Geo_lat" : "485744.42N",
+					"Geo_long" : "0144935.66E"
+				},
+				{
+					"Geo_lat" : "484946.08N",
+					"Geo_long" : "0144933.34E"
+				},
+				{
+					"Geo_lat" : "484946.99N",
+					"Geo_long" : "0143331.15E"
+				},
+				{
+					"Geo_lat" : "485127.67N",
+					"Geo_long" : "0142026.51E"
+				},
+				{
+					"Geo_lat" : "4855546.37N",
+					"Geo_long" : "0141135.05E"
+				},
+				{
+					"Geo_lat" : "485545.98N",
+					"Geo_long" : "0140759.82E"
+				},
+				{
+					"Geo_lat" : "490156.84N",
+					"Geo_long" : "0140758.47E"
+				},
+				{
+					"Geo_lat" : "490240.66N",
+					"Geo_long" : "0140925.97E"
+				}
+				]
+				}
+			]
+		}
+}
+]

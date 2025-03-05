@@ -1,0 +1,171 @@
+[
+	{
+		"Type" : "D_nebezpecny_prostor",
+		"Creation_date" : "2025-01-06T104000",
+		"Valid_from" : "2025-02-20T000000",
+		"Data" : {
+			"Object" : [
+				{
+					"Identification" : "LKD1",
+					"Name" : "KRALICE NAD OSLAVOU",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "491307.7N",
+							"Geo_long_cen" : "0161251.4E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD2",
+					"Name" : "KOURIM",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "500101.0N",
+							"Geo_long_cen" : "0145554.5E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD3",
+					"Name" : "BRECLAV",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "484650.5N",
+							"Geo_long_cen" : "0165612.9E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD4",
+					"Name" : "SATALICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "500713.17N",
+							"Geo_long_cen" : "0143404.57E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.3"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD5",
+					"Name" : "VESELI NAD LUZNICI",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "491234.9N",
+							"Geo_long_cen" : "0144057.2E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD6",
+					"Name" : "DOLNI BOJANOVICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "485215.60N",
+							"Geo_long_cen" : "0170145.84E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.8"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD7",
+					"Name" : "STRAZISTE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 95",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "503632.87N",
+							"Geo_long_cen" : "0145034.44E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.35"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD8",
+					"Name" : "OTVICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "500 ft AGL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "502919.40N",
+							"Geo_long_cen" : "0132749.30E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "0.1"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD9",
+					"Name" : "BRDA",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 95",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "494458.00N",
+							"Geo_long_cen" : "0135443.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "1.5"
+						}
+					]
+				},
+				{
+					"Identification" : "LKD10",
+					"Name" : "DOLNI DUNAJOVICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "485406.95N",
+							"Geo_long" : "0163644.05E"
+						},
+						{
+							"Geo_lat" : "485019.94N",
+							"Geo_long" : "0163317.92E"
+						},
+						{
+							"Geo_lat" : "484924.09N",
+							"Geo_long" : "0163539.20E"
+						},
+						{
+							"Geo_lat" : "485311.03N",
+							"Geo_long" : "0163905.44E"
+						}
+					],
+					"Circle_coord" : []
+				}
+				]
+				}
+		}
+]

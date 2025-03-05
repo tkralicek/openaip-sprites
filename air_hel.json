@@ -1,0 +1,595 @@
+[
+	{
+		"Type" : "Heliport",
+		"Creation_date" : "2024-07-18T102415",
+		"Valid_from" : "2024-08-08T000000",
+		"Data" : {
+			"Object" : [
+				{
+					"Identification" : "LKBD",
+					"Name" : "BRODEK U PREROVA",
+					"Elevation_FT" : "668",
+					"Elevation_M" : "204",
+					"Geo_lat" : "492902.00N",
+					"Geo_long" : "0171936.95E"
+				},
+				{
+					"Identification" : "LKBG",
+					"Name" : "BRNO - BOHUNICE MAIN",
+					"Elevation_FT" : "951.44",
+					"Elevation_M" : "290.00",
+					"Geo_lat" : "491034.72N",
+					"Geo_long" : "0163419.86E"
+				},
+				{
+					"Identification" : "LKBH",
+					"Name" : "BENESOV",
+					"Elevation_FT" : "1265",
+					"Elevation_M" : "386",
+					"Geo_lat" : "494719.46",
+					"Geo_long" : "0144047.66E"
+				},
+				{
+					"Identification" : "LKBI",
+					"Name" : " BRECLAV - NEMOCNICE",
+					"Elevation_FT" : "518",
+					"Elevation_M" : "158",
+					"Geo_lat" : "484508N",
+					"Geo_long" : "0165240E"
+				},
+				{
+					"Identification" : "LKBL",
+					"Name" : "BLANSKO",
+					"Elevation_FT" : "1038",
+					"Elevation_M" : "316",
+					"Geo_lat" : "492145N",
+					"Geo_long" : "0163915E"
+				},
+				{
+					"Identification" : "LKBN",
+					"Name" : "BRNO - BOHUNICE RESERVE",
+					"Elevation_FT" : "967",
+					"Elevation_M" : "295",
+					"Geo_lat" : "491032.52N",
+					"Geo_long" : "0163409.66E"
+				},
+				{
+					"Identification" : "LKBP",
+					"Name" : "BRNO - CERNE POLE",
+					"Elevation_FT" : "791",
+					"Elevation_M" : "241",
+					"Geo_lat" : "491212.07N",
+					"Geo_long" : "0163659.56E"
+				},
+				{
+					"Identification" : "LKBS",
+					"Name" : "BOSKOVICE",
+					"Elevation_FT" : "1198",
+					"Elevation_M" : "365",
+					"Geo_lat" : "492922.57N",
+					"Geo_long" : "0163846.61E"
+				},
+				{
+					"Identification" : "LKBV",
+					"Name" : "BRNO - SV. ANNA",
+					"Elevation_FT" : "764",
+					"Elevation_M" : "233",
+					"Geo_lat" : "491126.67N",
+					"Geo_long" : "0163602.99E"
+				},
+				{
+					"Identification" : "LKCA",
+					"Name" : "CESKE BUDEJOVICE - ZAKLADNA HEMS",
+					"Elevation_FT" : "1339.86",
+					"Elevation_M" : "408.39",
+					"Geo_lat" : "485640.06N",
+					"Geo_long" : "0142642.49E"
+				},
+				{
+					"Identification" : "LKCC",
+					"Name" : "CESKE BUDEJOVICE - NEMOCNICE",
+					"Elevation_FT" : "1280",
+					"Elevation_M" : "390",
+					"Geo_lat" : "485743.33N",
+					"Geo_long" : "0142745.54E"
+				},
+				{
+					"Identification" : "LKCD",
+					"Name" : "CHRUDIM - NEMOCNICE",
+					"Elevation_FT" : "925",
+					"Elevation_M" : "282",
+					"Geo_lat" : "495629N",
+					"Geo_long" : "0154830E"
+				},
+				{
+					"Identification" : "LKCO",
+					"Name" : "CHOTOUN",
+					"Elevation_FT" : "830",
+					"Elevation_M" : "253",
+					"Geo_lat" : "500332.93N",
+					"Geo_long" : "0145727.87E"
+				},
+				{
+					"Identification" : "LKCP",
+					"Name" : "CHODOVA PLANA",
+					"Elevation_FT" : "1783",
+					"Elevation_M" : "542",
+					"Geo_lat" : "495404.315N",
+					"Geo_long" : "0124430.134E"
+				},
+				{
+					"Identification" : "LKCU",
+					"Name" : "CHOMUTOV - NEMOCNICE",
+					"Elevation_FT" : "1099",
+					"Elevation_M" : "335",
+					"Geo_lat" : "502712N",
+					"Geo_long" : "0132440E"
+				},
+				{
+					"Identification" : "LKDC",
+					"Name" : "DECIN",
+					"Elevation_FT" : "638.8",
+					"Elevation_M" : "208.43",
+					"Geo_lat" : "504651.74N",
+					"Geo_long" : "0141339.58E"
+				},
+				{
+					"Identification" : "LKDO",
+					"Name" : "DOMAZLICE",
+					"Elevation_FT" : "1521",
+					"Elevation_M" : "464",
+					"Geo_lat" : "492618N",
+					"Geo_long" : "0125425E"
+				},
+				{
+					"Identification" : "LKFM",
+					"Name" : "FRYDEK - MISTEK",
+					"Elevation_FT" : "1199.6",
+					"Elevation_M" : "365.65",
+					"Geo_lat" : "494127.63N",
+					"Geo_long" : "0182117.85E"
+				},
+				{
+					"Identification" : "LKHA",
+					"Name" : "HAVIROV",
+					"Elevation_FT" : "919",
+					"Elevation_M" : "280",
+					"Geo_lat" : "494701.37N",
+					"Geo_long" : "0182622.92E"
+				},
+				{
+					"Identification" : "LKHH",
+					"Name" : "HRADEC KRALOVE - ZAKLADNA HEMS",
+					"Elevation_FT" : "751",
+					"Elevation_M" : "229",
+					"Geo_lat" : "501135.93N",
+					"Geo_long" : "0154931.85E"
+				},
+				{
+					"Identification" : "LKHL",
+					"Name" : "HAVLICKUV BROD - NEMOCNICE",
+					"Elevation_FT" : "1535",
+					"Elevation_M" : "468",
+					"Geo_lat" : "493637.32N",
+					"Geo_long" : "0153413.75E"
+				},
+				{
+					"Identification" : "LKHR",
+					"Name" : "HRADEC KRALOVE - NEMOCNICE",
+					"Elevation_FT" : "807",
+					"Elevation_M" : "246",
+					"Geo_lat" : "501153.71N",
+					"Geo_long" : "0154942.77E"
+				},
+				{
+					"Identification" : "LKJE",
+					"Name" : "JESENIK",
+					"Elevation_FT" : "1654",
+					"Elevation_M" : "504",
+					"Geo_lat" : "501317.78N",
+					"Geo_long" : "0171111.87E"
+				},
+				{
+					"Identification" : "LKJL",
+					"Name" : "JIHLAVA - ZAKLADNA HEMS",
+					"Elevation_FT" : "1752",
+					"Elevation_M" : "534",
+					"Geo_lat" : "492355N",
+					"Geo_long" : "0153405E"
+				},
+				{
+					"Identification" : "LKJR",
+					"Name" : "JINDRICHUV HRADEC - NEMOCNICE",
+					"Elevation_FT" : "1620",
+					"Elevation_M" : "494",
+					"Geo_lat" : "490821.38N",
+					"Geo_long" : "0150020.61E"
+				},
+				{
+					"Identification" : "LKKE",
+					"Name" : "KARLOV",
+					"Elevation_FT" : "2577",
+					"Elevation_M" : "786",
+					"Geo_lat" : "490949.58N",
+					"Geo_long" : "0132537.08E"
+				},
+				{
+					"Identification" : "LKKI",
+					"Name" : "KRNOV - NEMOCNICE",
+					"Elevation_FT" : "1046",
+					"Elevation_M" : "319",
+					"Geo_lat" : "500549.28N",
+					"Geo_long" : "0174106.69E"
+				},
+				{
+					"Identification" : "LKKJ",
+					"Name" : " KYJOV - NEMOCNICE",
+					"Elevation_FT" : "730",
+					"Elevation_M" : "222",
+					"Geo_lat" : "490030N",
+					"Geo_long" : "0170639E"
+				},
+				{
+					"Identification" : "LKKN",
+					"Name" : "KARLOVY VARY - NEMOCNICE",
+					"Elevation_FT" : "1409",
+					"Elevation_M" : "429",
+					"Geo_lat" : "501357.95N",
+					"Geo_long" : "0125235.30E"
+				},
+				{
+					"Identification" : "LKKZ",
+					"Name" : "KROMERIZ - NEMOCNICE",
+					"Elevation_FT" : "666",
+					"Elevation_M" : "203",
+					"Geo_lat" : "491728.31N",
+					"Geo_long" : "0172246.85E"
+				},
+				{
+					"Identification" : "LKLA",
+					"Name" : "  LIBEREC - ACL",
+					"Elevation_FT" : "1405",
+					"Elevation_M" : "428.23",
+					"Geo_lat" : "504401.87N",
+					"Geo_long" : "0150215.30E"
+				},
+				{
+					"Identification" : "LKLC",
+					"Name" : "LIBEREC - NEMOCNICE",
+					"Elevation_FT" : "1358",
+					"Elevation_M" : "414",
+					"Geo_lat" : "504611.95N",
+					"Geo_long" : "0150350.16E"
+				},
+				{
+					"Identification" : "LKLH",
+					"Name" : "LIBEREC - ZAKLADNA HEMS",
+					"Elevation_FT" : "1307",
+					"Elevation_M" : "398",
+					"Geo_lat" : "504608.14N",
+					"Geo_long" : "0150127.21E"
+				},
+				{
+					"Identification" : "LKLK",
+					"Name" : "PRAHA 19 - KBELY",
+					"Elevation_FT" : "907.3",
+					"Elevation_M" : "276.6",
+					"Geo_lat" : "500800.96N",
+					"Geo_long" : "0143212.11.E"
+				},
+				{
+					"Identification" : "LKLO",
+					"Name" : "LITOMERICE",
+					"Elevation_FT" : "617",
+					"Elevation_M" : "188",
+					"Geo_lat" : "503230.27N",
+					"Geo_long" : "0140845.95E"
+				},
+				{
+					"Identification" : "LKME",
+					"Name" : "MELNIK",
+					"Elevation_FT" : "557",
+					"Elevation_M" : "170",
+					"Geo_lat" : "502107N",
+					"Geo_long" : "0142913E"
+				},
+				{
+					"Identification" : "LKML",
+					"Name" : "MLADA BOLESLAV - NEMOCNICE",
+					"Elevation_FT" : "761",
+					"Elevation_M" : "232",
+					"Geo_lat" : "502508.48N",
+					"Geo_long" : "0145425.64E"
+				},
+				{
+					"Identification" : "LKMS",
+					"Name" : "MOST - NEMOCNICE",
+					"Elevation_FT" : "992",
+					"Elevation_M" : "302.32",
+					"Geo_lat" : "503012.38N",
+					"Geo_long" : "0133750.05E"
+				},
+				{
+					"Identification" : "LKNC",
+					"Name" : "NACHOD",
+					"Elevation_FT" : "1217",
+					"Elevation_M" : "371",
+					"Geo_lat" : "502437N",
+					"Geo_long" : "0161000E"
+				},
+				{
+					"Identification" : "LKNE",
+					"Name" : "NEDANICE",
+					"Elevation_FT" : "1585",
+					"Elevation_M" : "483",
+					"Geo_lat" : "492720.285N",
+					"Geo_long" : "0132305.973E"
+				},
+				{
+					"Identification" : "LKNK",
+					"Name" : "NOVA AMERIKA",
+					"Elevation_FT" : "1086",
+					"Elevation_M" : "331",
+					"Geo_lat" : "502252N",
+					"Geo_long" : "0155150E"
+				},
+				{
+					"Identification" : "LKNO",
+					"Name" : "NOVE MESTO NA MORAVE",
+					"Elevation_FT" : "2047",
+					"Elevation_M" : "624",
+					"Geo_lat" : "493341N",
+					"Geo_long" : "0160347E"
+				},
+				{
+					"Identification" : "LKNR",
+					"Name" : "NERATOVICE",
+					"Elevation_FT" : "558",
+					"Elevation_M" : "170",
+					"Geo_lat" : "501509.46N",
+					"Geo_long" : "0143116.39E"
+				},
+				{
+					"Identification" : "LKOC",
+					"Name" : "OLOMOUC - NEMOCNICE",
+					"Elevation_FT" : "873",
+					"Elevation_M" : "266",
+					"Geo_lat" : "493502.74N",
+					"Geo_long" : "0171411.55E"
+				},
+				{
+					"Identification" : "LKOP",
+					"Name" : "OSTRAVA - NEMOCNICE",
+					"Elevation_FT" : "866",
+					"Elevation_M" : "264",
+					"Geo_lat" : "494946.91N",
+					"Geo_long" : "0180937.12E"
+				},
+				{
+					"Identification" : "LKOT",
+					"Name" : "OLOMOUC - ZAKLADNA HEMS",
+					"Elevation_FT" : "853",
+					"Elevation_M" : "260",
+					"Geo_lat" : "493500.84N",
+					"Geo_long" : "0171312.95E"
+				},
+				{
+					"Identification" : "LKOV",
+					"Name" : "OPAVA",
+					"Elevation_FT" : "900",
+					"Elevation_M" : "274.2",
+					"Geo_lat" : "495610.17N",
+					"Geo_long" : "175233.34E"
+				},
+				{
+					"Identification" : "LKOZ",
+					"Name" : "OSTRAVA - ZAKLADNA HEMS",
+					"Elevation_FT" : "758",
+					"Elevation_M" : "231",
+					"Geo_lat" : "494811.70N",
+					"Geo_long" : "0181349.63E"
+				},
+				{
+					"Identification" : "LKPB",
+					"Name" : "PRAHA 8 - BULOVKA",
+					"Elevation_FT" : "845",
+					"Elevation_M" : "258",
+					"Geo_lat" : "500658N",
+					"Geo_long" : "0142745E"
+				},
+				{
+					"Identification" : "LKPE",
+					"Name" : "PELHRIMOV",
+					"Elevation_FT" : "1709",
+					"Elevation_M" : "521",
+					"Geo_lat" : "492607N",
+					"Geo_long" : "0151352E"
+				},
+				{
+					"Identification" : "LKPF",
+					"Name" : "PISEK",
+					"Elevation_FT" : "1266",
+					"Elevation_M" : "386",
+					"Geo_lat" : "491802.14N",
+					"Geo_long" : "0140931.72E"
+				},
+				{
+					"Identification" : "LKPG",
+					"Name" : "PRACHATICE",
+					"Elevation_FT" : "1995",
+					"Elevation_M" : "608",
+					"Geo_lat" : "490025.39N",
+					"Geo_long" : "0140034.46E"
+				},
+				{
+					"Identification" : "LKPH",
+					"Name" : "PRAHA 5 - MOTOL",
+					"Elevation_FT" : "1142",
+					"Elevation_M" : "348",
+					"Geo_lat" : "500425.3N",
+					"Geo_long" : "0142032.4E"
+				},
+				{
+					"Identification" : "LKPK",
+					"Name" : "PRAHA 4 - KRC",
+					"Elevation_FT" : "755",
+					"Elevation_M" : "230",
+					"Geo_lat" : "500154.96N",
+					"Geo_long" : "0142725.39E"
+				},
+				{
+					"Identification" : "LKPP",
+					"Name" : "PREDNI KOPANINA",
+					"Elevation_FT" : "1122",
+					"Elevation_M" : "343",
+					"Geo_lat" : "500710.49N",
+					"Geo_long" : "0141810.77E"
+				},
+				{
+					"Identification" : "LKPT",
+					"Name" : "PRAHA 6 - STRESOVICE (MIL)",
+					"Elevation_FT" : "1202",
+					"Elevation_M" : "366",
+					"Geo_lat" : "500519.91N",
+					"Geo_long" : "0142147.16E"
+				},
+				{
+					"Identification" : "LKPU",
+					"Name" : "PARDUBICE - NEMOCNICE",
+					"Elevation_FT" : "1202",
+					"Elevation_M" : "366",
+					"Geo_lat" : "500519.91N",
+					"Geo_long" : "0142147.16E"
+				},
+				{
+					"Identification" : "LKPV",
+					"Name" : "PLZEN - RESERVE",
+					"Elevation_FT" : "869",
+					"Elevation_M" : "265",
+					"Geo_lat" : "500144.17N",
+					"Geo_long" : "0154720.95E"
+				},
+				{
+					"Identification" : "LKPY",
+					"Name" : "PRAHA 10 - VINOHRADY",
+					"Elevation_FT" : "780",
+					"Elevation_M" : "238",
+					"Geo_lat" : "500428.64N",
+					"Geo_long" : "0142855.28E"
+				},
+				{
+					"Identification" : "LKPZ",
+					"Name" : "PLZEN - MAIN",
+					"Elevation_FT" : "1105",
+					"Elevation_M" : "337",
+					"Geo_lat" : "494542.68N",
+					"Geo_long" : "0132244.61E"
+				},
+				{
+					"Identification" : "LKRV",
+					"Name" : " RAKOVNIK - NEMOCNICE",
+					"Elevation_FT" : "1112",
+					"Elevation_M" : "339",
+					"Geo_lat" : "500627.87N",
+					"Geo_long" : "0134307.09E"
+				},
+				{
+					"Identification" : "LKRZ",
+					"Name" : "ROZVADOV",
+					"Elevation_FT" : "1815",
+					"Elevation_M" : "553",
+					"Geo_lat" : "494007.903N",
+					"Geo_long" : "0123335.616E"
+				},
+				{
+					"Identification" : "LKSL",
+					"Name" : "SOLNICE - ACL",
+					"Elevation_FT" : "1112",
+					"Elevation_M" : "339",
+					"Geo_lat" : "501143.43N",
+					"Geo_long" : "0161452.69E"
+				},
+				{
+					"Identification" : "LKSP",
+					"Name" : " SUMPERK - NEMOCNICE",
+					"Elevation_FT" : "1023",
+					"Elevation_M" : "312",
+					"Geo_lat" : "495728N",
+					"Geo_long" : "0165747E"
+				},
+				{
+					"Identification" : "LKSV",
+					"Name" : "SVITAVY",
+					"Elevation_FT" : "1449",
+					"Elevation_M" : "442",
+					"Geo_lat" : "494550N",
+					"Geo_long" : "0162745E"
+				},
+				{
+					"Identification" : "LKTH",
+					"Name" : "TECHONIN (MIL)",
+					"Elevation_FT" : "1679",
+					"Elevation_M" : "512",
+					"Geo_lat" : "500336.50N",
+					"Geo_long" : "0163643.81E"
+				},
+				{
+					"Identification" : "LKTR",
+					"Name" : " TABOR - NEMOCNICE",
+					"Elevation_FT" : "1450",
+					"Elevation_M" : "442",
+					"Geo_lat" : "492457.08N",
+					"Geo_long" : "0143907.92E"
+				},
+				{
+					"Identification" : "LKTU",
+					"Name" : "TRUTNOV",
+					"Elevation_FT" : "1526",
+					"Elevation_M" : "465",
+					"Geo_lat" : "503510N",
+					"Geo_long" : "0155243E"
+				},
+				{
+					"Identification" : "LKUB",
+					"Name" : "USTI NAD LABEM - ZAKLADNA HEMS",
+					"Elevation_FT" : "919",
+					"Elevation_M" : "280",
+					"Geo_lat" : "504039N",
+					"Geo_long" : "0140126E"
+				},
+				{
+					"Identification" : "LKUH",
+					"Name" : "UHERSKE HRADISTE - MARATICE",
+					"Elevation_FT" : "590",
+					"Elevation_M" : "179.80",
+					"Geo_lat" : "490447.58N",
+					"Geo_long" : "0172906.54E"
+				},
+				{
+					"Identification" : "LKUS",
+					"Name" : "USTI NAD LABEM - NEMOCNICE",
+					"Elevation_FT" : "932",
+					"Elevation_M" : "284",
+					"Geo_lat" : "504048N",
+					"Geo_long" : "0140115E"
+				},
+				{
+					"Identification" : "LKVN",
+					"Name" : "VYSKOV - NEMOCNICE",
+					"Elevation_FT" : "869.4",
+					"Elevation_M" : "265",
+					"Geo_lat" : "491641.25N",
+					"Geo_long" : "0165853.36E"
+				},
+				{
+					"Identification" : "LKZI",
+					"Name" : "ZLIN - NEMOCNICE",
+					"Elevation_FT" : "738",
+					"Elevation_M" : "224",
+					"Geo_lat" : "491334.19N",
+					"Geo_long" : "0174218.51E"
+				}
+			]
+		}
+	}
+]

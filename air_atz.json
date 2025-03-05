@@ -1,0 +1,84 @@
+[
+	{
+		"Type" : "ATZ_letistni_provozni_zona",
+		"Creation_date" : "2023-08-14T140400",
+		"Valid_from" : "2023-07-13T000000",
+		"Data" : {
+		"Object" : [
+		{
+			"Identification" : "LKCSATZ",
+			"Name" : "ATZ Ceske Budejovice",
+			"Lower_limit" : "GND",
+			"Upper_limit" : "3500 ft AMSL",
+			"Polygon_coord" : [
+				{
+					"Geo_lat" : "485746.42N",
+					"Geo_long" : "0141534.47E"
+				},
+				{
+					"Geo_lat" : "485746.85N",
+					"Geo_long" : "0142121.49E"
+				}
+			],
+			"Circle_coord" : [
+				{
+							"Geo_lat_cen" : "485647.00N",
+							"Geo_long_cen" : "0142539.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+				}
+			],
+			"Polygon_continuing_coord" : [
+				{
+							"Geo_lat" : "485746.96N",
+							"Geo_long" : "0142956.45E"
+				},
+				{
+							"Geo_lat" : "485746.65N",
+							"Geo_long" : "0143847.40E"
+				},
+				{
+							"Geo_lat" : "485546.74N",
+							"Geo_long" : "0143847.18E"
+				},
+				{
+							"Geo_lat" : "485546.85N",
+							"Geo_long" : "0143542.13E"
+				},
+				{
+							"Geo_lat" : "485127.77N",
+							"Geo_long" : "0143050.55E"
+				},
+				{
+							"Geo_lat" : "485127.67N",
+							"Geo_long" : "0142026.51E"
+				},
+				{
+							"Geo_lat" : "485546.52N",
+							"Geo_long" : "0141535.77E"
+				},
+				{
+							"Geo_lat" : "485746.42N",
+							"Geo_long" : "0141534.47E"
+				}
+		]
+		},
+		{
+			"Identification" : "LKCOATZ",
+			"Name" : "ATZ Chotoun",
+			"Lower_limit" : "GND",
+			"Upper_limit" : "1000 ft AGL",
+			"Polygon_coord" : [],
+			"Circle_coord" : [
+				{
+					"Geo_lat_cen" : "500332.93N",
+					"Geo_long_cen" : "0145727.87E",
+					"Radius_unit" : "NM",
+					"Radius_value" : "3"
+				}
+			]
+		}
+		]
+		}
+	}
+]

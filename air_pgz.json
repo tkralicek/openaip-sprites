@@ -1,0 +1,77 @@
+[
+	{
+		"Type" : "PGZ",
+		"Creation_date" : "2022-03-11T110000",
+		"Valid_from" : "2022-03-14T000000",
+		"Data" : {
+			"Object" : [
+				{
+					"Identification" : "BOROTICE",
+					"Name" : "BOROTICE",
+					"Geo_lat" : "485052.00N",
+					"Geo_long" : "0161407.00E"
+				},
+				{
+					"Identification" : "CERNIV",
+					"Name" : "CERNIV",
+					"Geo_lat" : "502647.00N",
+					"Geo_long" : "0140231.00E"
+				},
+				{
+					"Identification" : "HRADCANY",
+					"Name" : "HRADCANY",
+					"Geo_lat" : "503710.00N",
+					"Geo_long" : "0144358.00E"
+				},
+				{
+					"Identification" : "KOCLIROV",
+					"Name" : "KOCLIROV",
+					"Geo_lat" : "494602.00N",
+					"Geo_long" : "0163057.00E"
+				},
+				{
+					"Identification" : "MALY PECIN",
+					"Name" : "MALY PECIN",
+					"Geo_lat" : "490618.00N",
+					"Geo_long" : "0152826.00E"
+				},
+				{
+					"Identification" : "NIVA",
+					"Name" : "NIVA",
+					"Geo_lat" : "492457.00N",
+					"Geo_long" : "0165042.00E"
+				},
+				{
+					"Identification" : "RADKOVICE U BUDCE",
+					"Name" : "RADKOVICE U BUDCE",
+					"Geo_lat" : "490540.00N",
+					"Geo_long" : "0153808.00E"
+				},
+				{
+					"Identification" : "TCHOROVICE",
+					"Name" : "TCHOROVICE",
+					"Geo_lat" : "492555.00N",
+					"Geo_long" : "0134748.00E"
+				},
+				{
+					"Identification" : "TREBON",
+					"Name" : "TREBON",
+					"Geo_lat" : "485925.00N",
+					"Geo_long" : "0144507.00E"
+				},
+				{
+					"Identification" : "VIDLATA SEC",
+					"Name" : "VIDLATA SEC",
+					"Geo_lat" : "494954.00N",
+					"Geo_long" : "0161234.00E"
+				},
+				{
+					"Identification" : "VSECHOV",
+					"Name" : "VSECHOV",
+					"Geo_lat" : "492618.00N",
+					"Geo_long" : "0143717.00E"
+				}
+			]
+		}
+	}
+]

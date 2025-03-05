@@ -1,0 +1,1599 @@
+[
+	{
+		"Type" : "TRA_docasne_rezervovany_prostor",
+		"Creation_date" : "2025-01-06T102130",
+		"Valid_from" : "2025-02-20T000000",
+		"Data" : {
+			"Object" : [												
+				{
+					"Identification" : "LKTRA6",
+					"Name" : "PROSTEJOV",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 95",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "492652.00N",
+							"Geo_long_cen" : "0170802.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTRA10",
+					"Name" : "POHORELICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "490549.87N",
+							"Geo_long" : "0162246.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "490016.23N",
+							"Geo_long" : "0163431.07E"
+						},
+						{},
+						{
+							"Geo_lat" : "485307.48N",
+							"Geo_long" : "0162400.09E"
+						},
+						{},
+						{
+							"Geo_lat" : "490103.80N",
+							"Geo_long" : "0161736.85E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA11",
+					"Name" : "MIROSLAV",
+					"Lower_limit" : "3000 ft AMSL",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "485753.64N",
+							"Geo_long" : "0161412.18E"
+						},
+						{},
+						{
+							"Geo_lat" : "485307.48N",
+							"Geo_long" : "0162400.09E"
+						},
+						{},
+						{
+							"Geo_lat" : "485146.93N",
+							"Geo_long" : "0162149.56E"
+						},
+						{},
+						{
+							"Geo_lat" : "485443.50N",
+							"Geo_long" : "0161522.95E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA12",
+					"Name" : "UNANOV",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "490143.25N",
+							"Geo_long" : "0160619.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "485753.64N",
+							"Geo_long" : "0161412.18E"
+						},
+						{},
+						{
+							"Geo_lat" : "485443.50N",
+							"Geo_long" : "0161522.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "485146.93N",
+							"Geo_long" : "0162149.56E"
+						},
+						{},
+						{
+							"Geo_lat" : "484736.37N",
+							"Geo_long" : "0161526.80E"
+						},
+						{},
+						{
+							"Geo_lat" : "484856.58N",
+							"Geo_long" : "0161052.02E"
+						},
+						{},
+						{
+							"Geo_lat" : "485441.19N",
+							"Geo_long" : "0155828.45E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA13",
+					"Name" : "JEVISOVICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "490706.98N",
+							"Geo_long" : "0155512.71E"
+						},
+						{},
+						{
+							"Geo_lat" : "490143.25N",
+							"Geo_long" : "0160619.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "485441.19N",
+							"Geo_long" : "0155828.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "490044.58N",
+							"Geo_long" : "0154522.84E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA14",
+					"Name" : "CASLAVICE",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491108.75N",
+							"Geo_long" : "0154653.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "490706.98N",
+							"Geo_long" : "0155512.71E"
+						},
+						{},
+						{
+							"Geo_lat" : "490044.58N",
+							"Geo_long" : "0154522.84E"
+						},
+						{},
+						{
+							"Geo_lat" : "490653.48N",
+							"Geo_long" : "0153203.66E"
+						},
+						{},
+						{
+							"Geo_lat" : "490824.01N",
+							"Geo_long" : "0154145.46E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA15",
+					"Name" : "BRTNICE",
+					"Lower_limit" : "300 ft AGL",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492042.29N",
+							"Geo_long" : "0154150.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "491922.58N",
+							"Geo_long" : "0154639.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "491622.73N",
+							"Geo_long" : "0154225.40E"
+						},
+						{},
+						{
+							"Geo_lat" : "491108.75N",
+							"Geo_long" : "0154653.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "490824.01N",
+							"Geo_long" : "0154145.46E"
+						},
+						{},
+						{
+							"Geo_lat" : "490653.48N",
+							"Geo_long" : "0153203.66E"
+						},
+						{},
+						{
+							"Geo_lat" : "491106.11N",
+							"Geo_long" : "0152704.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "491627.20N",
+							"Geo_long" : "0152644.10E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA16",
+					"Name" : "TREST",
+					"Lower_limit" : "5000 ft AMSL",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492319.70N",
+							"Geo_long" : "0153225.69E"
+						},
+						{},
+						{
+							"Geo_lat" : "492042.29N",
+							"Geo_long" : "0154150.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "491627.20N",
+							"Geo_long" : "0152644.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "491812.70N",
+							"Geo_long" : "0152637.40E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA17",
+					"Name" : "OKRISKY",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3500 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491922.58N",
+							"Geo_long" : "0154639.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "491702.65N",
+							"Geo_long" : "0155459.31E"
+						},
+						{},
+						{
+							"Geo_lat" : "491448.80N",
+							"Geo_long" : "0155205.75E"
+						},
+						{},
+						{
+							"Geo_lat" : "491108.75N",
+							"Geo_long" : "0154653.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "491622.73N",
+							"Geo_long" : "0154225.40E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA18",
+					"Name" : "NAMEST",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491922.58N",
+							"Geo_long" : "0154639.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "491702.65N",
+							"Geo_long" : "0155459.31E"
+						},
+						{},
+						{
+							"Geo_lat" : "491339.69N",
+							"Geo_long" : "0160850.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "490932.13N",
+							"Geo_long" : "0162314.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "490208.82N",
+							"Geo_long" : "0163716.82E"
+						},
+						{},
+						{
+							"Geo_lat" : "490016.23N",
+							"Geo_long" : "0163431.07E"
+						},
+						{},
+						{
+							"Geo_lat" : "485307.48N",
+							"Geo_long" : "0162400.09E"
+						},
+						{},
+						{
+							"Geo_lat" : "485753.64N",
+							"Geo_long" : "0161412.18E"
+						},
+						{},
+						{
+							"Geo_lat" : "490143.25N",
+							"Geo_long" : "0160619.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "490706.98N",
+							"Geo_long" : "0155512.71E"
+						},
+						{},
+						{
+							"Geo_lat" : "491108.75N",
+							"Geo_long" : "0154653.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "491622.73N",
+							"Geo_long" : "0154225.40E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA19",
+					"Name" : "TREBIC",
+					"Lower_limit" : "FL 125",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492319.70N",
+							"Geo_long" : "0153225.69E"
+						},
+						{},
+						{
+							"Geo_lat" : "492042.29N",
+							"Geo_long" : "0154150.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "491922.58N",
+							"Geo_long" : "0154639.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "491702.65N",
+							"Geo_long" : "0155459.31E"
+						},
+						{},
+						{
+							"Geo_lat" : "491339.69N",
+							"Geo_long" : "0160850.68E"
+						},
+						{},
+						{
+							"Geo_lat" : "490103.80N",
+							"Geo_long" : "0161736.85E"
+						},
+						{},
+						{
+							"Geo_lat" : "485307.48N",
+							"Geo_long" : "0162400.09E"
+						},
+						{},
+						{
+							"Geo_lat" : "485146.93N",
+							"Geo_long" : "0162149.56E"
+						},
+						{},
+						{
+							"Geo_lat" : "484736.37N",
+							"Geo_long" : "0161526.80E"
+						},
+						{},
+						{
+							"Geo_lat" : "484856.58N",
+							"Geo_long" : "0161052.02E"
+						},
+						{},
+						{
+							"Geo_lat" : "485441.19N",
+							"Geo_long" : "0155828.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "490044.58N",
+							"Geo_long" : "0154522.84E"
+						},
+						{},
+						{
+							"Geo_lat" : "490653.48N",
+							"Geo_long" : "0153203.66E"
+						},
+						{},
+						{
+							"Geo_lat" : "491106.11N",
+							"Geo_long" : "0152704.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "491627.20N",
+							"Geo_long" : "0152644.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "491812.70N",
+							"Geo_long" : "0152637.40E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA30",
+					"Name" : "CASLAV",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501108.78N",
+							"Geo_long" : "0152255.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "500906.81N",
+							"Geo_long" : "0152252.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "500322.78N",
+							"Geo_long" : "0152425.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "495547.79N",
+							"Geo_long" : "0153511.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "495038.81N",
+							"Geo_long" : "0154229.73E"
+						},
+						{},
+						{
+							"Geo_lat" : "494609.37N",
+							"Geo_long" : "0155058.58E"
+						},
+						{},
+						{
+							"Geo_lat" : "494050.85N",
+							"Geo_long" : "0154434.99E"
+						},
+						{},
+						{
+							"Geo_lat" : "493632.85N",
+							"Geo_long" : "0153925.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "495005.68N",
+							"Geo_long" : "0150754.92E"
+						},
+						{},
+						{
+							"Geo_lat" : "495758.78N",
+							"Geo_long" : "0150253.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "501108.54N",
+							"Geo_long" : "0150324.04E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA31",
+					"Name" : "ZDAR NAD SAZAVOU",
+					"Lower_limit" : "1000 ft AGL",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494609.37N",
+							"Geo_long" : "0155058.58E"
+						},
+						{},
+						{
+							"Geo_lat" : "493737.38N",
+							"Geo_long" : "0162244.16E"
+						},
+						{},
+						{
+							"Geo_lat" : "493335.75N",
+							"Geo_long" : "0161318.88E"
+						},
+						{},
+						{
+							"Geo_lat" : "493044.56N",
+							"Geo_long" : "0160640.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "493632.85N",
+							"Geo_long" : "0153925.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "494050.85N",
+							"Geo_long" : "0154434.99E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA32",
+					"Name" : "PROSEC",
+					"Lower_limit" : "5000 ft AMSL",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "495214.81N",
+							"Geo_long" : "0161847.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "495335.66N",
+							"Geo_long" : "0162952.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "494255.11N",
+							"Geo_long" : "0163512.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "493737.38N",
+							"Geo_long" : "0162244.16E"
+						},
+						{},
+						{
+							"Geo_lat" : "494609.37N",
+							"Geo_long" : "0155058.58E"
+						},
+						{},
+						{
+							"Geo_lat" : "495038.81N",
+							"Geo_long" : "0154229.73E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA33",
+					"Name" : "LETOVICE",
+					"Lower_limit" : "5000 ft AMSL",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494255.11N",
+							"Geo_long" : "0163512.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "492732.96N",
+							"Geo_long" : "0164248.91E"
+						},
+						{},
+						{
+							"Geo_lat" : "492530.09N",
+							"Geo_long" : "0163303.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "493044.56N",
+							"Geo_long" : "0160640.45E"
+						},
+						{},
+						{
+							"Geo_lat" : "493335.75N",
+							"Geo_long" : "0161318.88E"
+						},
+						{},
+						{
+							"Geo_lat" : "493737.38N",
+							"Geo_long" : "0162244.16E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA34",
+					"Name" : "MOHELNICE",
+					"Lower_limit" : "5000 ft AMSL",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "495335.66N",
+							"Geo_long" : "0162952.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "495900.00N",
+							"Geo_long" : "0171600.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "494635.89N",
+							"Geo_long" : "0173227.73E"
+						},
+						{},
+						{
+							"Geo_lat" : "494431.88N",
+							"Geo_long" : "0172635.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "493730.21N",
+							"Geo_long" : "0172420.93E"
+						},
+						{},
+						{
+							"Geo_lat" : "493558.88N",
+							"Geo_long" : "0172350.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "492935.00N",
+							"Geo_long" : "0165235.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492732.96N",
+							"Geo_long" : "0164248.91E"
+						},
+						{},
+						{
+							"Geo_lat" : "494255.11N",
+							"Geo_long" : "0163512.61E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA35",
+					"Name" : "SUMPERK",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "500953.81N",
+							"Geo_long" : "0162711.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "500217.53N",
+							"Geo_long" : "0164150.84E"
+						},
+						{},
+						{
+							"Geo_lat" : "501058.88N",
+							"Geo_long" : "0170253.67E"
+						},
+						{},
+						{
+							"Geo_lat" : "495900.00N",
+							"Geo_long" : "0171600.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "495335.66N",
+							"Geo_long" : "0162952.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "495214.81N",
+							"Geo_long" : "0161847.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "500631.57N",
+							"Geo_long" : "0162158.95E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA36",
+					"Name" : "HOLICE",
+					"Lower_limit" : "FL 125",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "502305.85N",
+							"Geo_long" : "0152316.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "500815.01N",
+							"Geo_long" : "0155805.49E"
+						},
+						{},
+						{
+							"Geo_lat" : "500631.57N",
+							"Geo_long" : "0162158.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "495214.81N",
+							"Geo_long" : "0161847.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "495038.81N",
+							"Geo_long" : "0154229.73E"
+						},
+						{},
+						{
+							"Geo_lat" : "495547.79N",
+							"Geo_long" : "0153511.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "500322.78N",
+							"Geo_long" : "0152425.64E"
+						},
+						{},
+						{
+							"Geo_lat" : "500906.81N",
+							"Geo_long" : "0152252.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "501108.78N",
+							"Geo_long" : "0152255.61E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA37",
+					"Name" : "NOVA PAKA",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "504334.98N",
+							"Geo_long" : "0153017.52E"
+						},
+						{},
+						{
+							"Geo_lat" : "503221.39N",
+							"Geo_long" : "0160227.74E"
+						},
+						{},
+						{
+							"Geo_lat" : "503153.84N",
+							"Geo_long" : "0160855.60E"
+						},
+						{},
+						{
+							"Geo_lat" : "502631.16N",
+							"Geo_long" : "0160545.97E"
+						},
+						{},
+						{
+							"Geo_lat" : "502132.07N",
+							"Geo_long" : "0161018.06E"
+						},
+						{},
+						{
+							"Geo_lat" : "500953.81N",
+							"Geo_long" : "0162711.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "500631.57N",
+							"Geo_long" : "0162158.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "500815.01N",
+							"Geo_long" : "0155805.49E"
+						},
+						{},
+						{
+							"Geo_lat" : "502305.85N",
+							"Geo_long" : "0152316.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "502835.45N",
+							"Geo_long" : "0151011.21E"
+						},
+						{},
+						{
+							"Geo_lat" : "503359.66N",
+							"Geo_long" : "0150257.23E"
+						},
+						{},
+						{
+							"Geo_lat" : "503632.01N",
+							"Geo_long" : "0150542.92E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA38",
+					"Name" : "HABRY",
+					"Lower_limit" : "FL 245",
+					"Upper_limit" : "FL 660",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "495758.78N",
+							"Geo_long" : "0150253.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "495834.33N",
+							"Geo_long" : "0151743.28E"
+						},
+						{},
+						{
+							"Geo_lat" : "494050.85N",
+							"Geo_long" : "0154434.99E"
+						},
+						{},
+						{
+							"Geo_lat" : "493632.85N",
+							"Geo_long" : "0153925.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "495005.68N",
+							"Geo_long" : "0150754.92E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA56",
+					"Name" : "NOVY BYDZOV",
+					"Lower_limit" : "1000 ft AGL",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501825.00N",
+							"Geo_long" : "0154432.23E"
+						},
+						{},
+						{
+							"Geo_lat" : "500848.45N",
+							"Geo_long" : "0154424.70E"
+						},
+						{},
+						{
+							"Geo_lat" : "500906.81N",
+							"Geo_long" : "0152252.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "501108.78N",
+							"Geo_long" : "0152255.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "501840.00N",
+							"Geo_long" : "0152308.49E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA57",
+					"Name" : "VAMBERK",
+					"Lower_limit" : "3000 ft AMSL",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501637.05N",
+							"Geo_long" : "0155544.53E"
+						},
+						{},
+						{
+							"Geo_lat" : "501626.47N",
+							"Geo_long" : "0161228.10E"
+						},
+						{},
+						{
+							"Geo_lat" : "500631.57N",
+							"Geo_long" : "0162158.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "500815.01N",
+							"Geo_long" : "0155805.49E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA61",
+					"Name" : "KOPIDLNO",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3000 ft AMSL",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "501851.00N",
+							"Geo_long_cen" : "0150934.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "5.5"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTRA62",
+					"Name" : "NYMBURK",
+					"Lower_limit" : "3000 ft AMSL",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "502835.45N",
+							"Geo_long" : "0151011.21E"
+						},
+						{},
+						{
+							"Geo_lat" : "502305.85N",
+							"Geo_long" : "0152316.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "501108.78N",
+							"Geo_long" : "0152255.61E"
+						},
+						{},
+						{
+							"Geo_lat" : "501108.54N",
+							"Geo_long" : "0150324.04E"
+						},
+						{},
+						{
+							"Geo_lat" : "501107.99N",
+							"Geo_long" : "0145839.41E"
+						},
+						{
+							"Geo_lat_cen" : "500544.80N",
+							"Geo_long_cen" : "0141555.81E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "28"
+						},
+						{
+							"Geo_lat" : "501409.32N",
+							"Geo_long" : "0145728.83E"
+						},
+						{},
+						{
+							"Geo_lat" : "502833.75N",
+							"Geo_long" : "0150003.79E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA63",
+					"Name" : "PARDUBICE",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "500906.81N",
+							"Geo_long" : "0152252.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "500848.45N",
+							"Geo_long" : "0154424.70E"
+						},
+						{},
+						{
+							"Geo_lat" : "500815.01N",
+							"Geo_long" : "0155805.49E"
+						},
+						{},
+						{
+							"Geo_lat" : "500631.57N",
+							"Geo_long" : "0162158.95E"
+						},
+						{},
+						{
+							"Geo_lat" : "495214.81N",
+							"Geo_long" : "0161847.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "495038.81N",
+							"Geo_long" : "0154229.73E"
+						},
+						{},
+						{
+							"Geo_lat" : "495547.79N",
+							"Geo_long" : "0153511.65E"
+						},
+						{},
+						{
+							"Geo_lat" : "500322.78N",
+							"Geo_long" : "0152425.64E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA71",
+					"Name" : "SMIDARY",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "1000 ft AGL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501731.00N",
+							"Geo_long" : "0152837.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501536.00N",
+							"Geo_long" : "0154252.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501325.00N",
+							"Geo_long" : "0154355.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "500853.87N",
+							"Geo_long" : "0153830.85E"
+						},
+						{},
+						{
+							"Geo_lat" : "500903.16N",
+							"Geo_long" : "0152733.02E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA72",
+					"Name" : "OPOCNO",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "3000 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "501633.00N",
+							"Geo_long" : "0160100.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "501628.00N",
+							"Geo_long" : "0161000.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "500930.00N",
+							"Geo_long" : "0161600.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "500930.00N",
+							"Geo_long" : "0160400.00E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA73",
+					"Name" : "BOROHRADEK",
+					"Lower_limit" : "GND",
+					"Upper_limit" : "2500 ft AMSL",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "500710.00N",
+							"Geo_long" : "0160405.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "500551.00N",
+							"Geo_long" : "0161747.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "500012.00N",
+							"Geo_long" : "0161654.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "500110.00N",
+							"Geo_long" : "0160451.00E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA74",
+					"Name" : "VOLARY",
+					"Lower_limit" : "1000 ft AGL",
+					"Upper_limit" : "FL 95",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "490731.77N",
+							"Geo_long" : "0141208.96E"
+						},
+						{},
+						{
+							"Geo_lat" : "490547.65N",
+							"Geo_long" : "0142648.41E"
+						},
+						{},
+						{
+							"Geo_lat" : "490259.23N",
+							"Geo_long" : "0142109.55E"
+						},
+						{},
+						{
+							"Geo_lat" : "484832.66N",
+							"Geo_long" : "0141616.87E"
+						},
+						{},
+						{
+							"Geo_lat" : "485459.73N",
+							"Geo_long" : "0140756.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "485441.66N",
+							"Geo_long" : "0135333.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "490403.95N",
+							"Geo_long" : "0141212.50E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA75",
+					"Name" : "PRACHATICE",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "491956.98N",
+							"Geo_long" : "0135356.70E"
+						},
+						{},
+						{
+							"Geo_lat" : "490731.77N",
+							"Geo_long" : "0141208.96E"
+						},
+						{},
+						{
+							"Geo_lat" : "485104.30N",
+							"Geo_long" : "0144433.21E"
+						},
+						{},
+						{
+							"Geo_lat" : "484832.66N",
+							"Geo_long" : "0141616.87E"
+						},
+						{},
+						{
+							"Geo_lat" : "485459.73N",
+							"Geo_long" : "0140756.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "485441.66N",
+							"Geo_long" : "0135333.78E"
+						},
+						{},
+						{
+							"Geo_lat" : "490312.62N",
+							"Geo_long" : "0133340.47E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA76",
+					"Name" : "BLATNA",
+					"Lower_limit" : "1000 ft AGL",
+					"Upper_limit" : "FL 75",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "494156.71N",
+							"Geo_long" : "0141339.73E"
+						},
+						{},
+						{
+							"Geo_lat" : "493828.05N",
+							"Geo_long" : "0141803.71E"
+						},
+						{},
+						{
+							"Geo_lat" : "491956.98N",
+							"Geo_long" : "0135356.70E"
+						},
+						{},
+						{
+							"Geo_lat" : "492752.64N",
+							"Geo_long" : "0134059.14E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA77",
+					"Name" : "MILEVSKO",
+					"Lower_limit" : "1000 ft AGL",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "493828.05N",
+							"Geo_long" : "0141803.71E"
+						},
+						{},
+						{
+							"Geo_lat" : "492341.08N",
+							"Geo_long" : "0143642.60E"
+						},
+						{},
+						{
+							"Geo_lat" : "491339.32N",
+							"Geo_long" : "0142128.83E"
+						},
+						{},
+						{
+							"Geo_lat" : "490731.77N",
+							"Geo_long" : "0141208.96E"
+						},
+						{},
+						{
+							"Geo_lat" : "491956.98N",
+							"Geo_long" : "0135356.70E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA78",
+					"Name" : "SOBESLAV",
+					"Lower_limit" : "1000 ft AGL",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492341.08N",
+							"Geo_long" : "0143642.60E"
+						},
+						{},
+						{
+							"Geo_lat" : "490957.74N",
+							"Geo_long" : "0145346.79E"
+						},
+						{},
+						{
+							"Geo_lat" : "490306.72N",
+							"Geo_long" : "0145024.82E"
+						},
+						{},
+						{
+							"Geo_lat" : "490306.37N",
+							"Geo_long" : "0144514.26E"
+						},
+						{},
+						{
+							"Geo_lat" : "490520.21N",
+							"Geo_long" : "0143037.38E"
+						},
+						{},
+						{
+							"Geo_lat" : "490547.65N",
+							"Geo_long" : "0142648.41E"
+						},
+						{},
+						{
+							"Geo_lat" : "490731.77N",
+							"Geo_long" : "0141208.96E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA79",
+					"Name" : "HOSIN",
+					"Lower_limit" : "FL 95",
+					"Upper_limit" : "FL 245",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "490547.65N",
+							"Geo_long" : "0142648.41E"
+						},
+						{},
+						{
+							"Geo_lat" : "490520.21N",
+							"Geo_long" : "0143037.38E"
+						},
+						{},
+						{
+							"Geo_lat" : "490306.37N",
+							"Geo_long" : "0144514.26E"
+						},
+						{},
+						{
+							"Geo_lat" : "490306.72N",
+							"Geo_long" : "0145024.82E"
+						},
+						{},
+						{
+							"Geo_lat" : "485104.30N",
+							"Geo_long" : "0144433.21E"
+						},
+						{},
+						{
+							"Geo_lat" : "490731.77N",
+							"Geo_long" : "0141208.96E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA93",
+					"Name" : "PREROV",
+					"Lower_limit" : "4000 ft AMSL",
+					"Upper_limit" : "FL 75",
+					"Polygon_coord" : [],
+					"Circle_coord" : [
+						{
+							"Geo_lat_cen" : "492533.34N",
+							"Geo_long_cen" : "0172417.39E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						}
+					]
+				},
+				{
+					"Identification" : "LKTRA94",
+					"Name" : "PIVIN",
+					"Lower_limit" : "3500 ft AMSL",
+					"Upper_limit" : "FL 95",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492541.59N",
+							"Geo_long" : "0171941.97E"
+						},
+						{
+							
+							"Geo_lat_cen" : "492533.34N",
+							"Geo_long_cen" : "0172417.39E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						},
+						{
+							"Geo_lat" : "492256.17",
+							"Geo_long" : "0172203.47E"
+						},
+						{},
+						{
+							"Geo_lat" : "492315.46N",
+							"Geo_long" : "0171909.34E"
+						},
+						{},
+						{
+							"Geo_lat" : "492137.27N",
+							"Geo_long" : "0170837.76E"
+						},
+						{},
+						{
+							"Geo_lat" : "492201.00N",
+							"Geo_long" : "0170053.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492313.00N",
+							"Geo_long" : "0170128.00E"
+						},
+						{},
+						{
+							"Geo_lat" : "492411.29N",
+							"Geo_long" : "0170050.81E"
+						},
+						{},
+						{
+							"Geo_lat" : "492447.13N",
+							"Geo_long" : "0170443.58E"
+						},
+						{
+							
+							"Geo_lat_cen" : "492652.00N",
+							"Geo_long_cen" : "0170802.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						},
+						{
+							"Geo_lat" : "492352.00N",
+							"Geo_long" : "0170902.49E"
+						},
+						{},
+						{
+							"Geo_lat" : "492541.59N",
+							"Geo_long" : "0171941.97E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA95",
+					"Name" : "PRASLAVICE",
+					"Lower_limit" : "3500 ft AMSL",
+					"Upper_limit" : "FL 125",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "493558.88N",
+							"Geo_long" : "0172350.72E"
+						},
+						{},
+						{
+							"Geo_lat" : "493440.89N",
+							"Geo_long" : "0172859.77E"
+						},
+						{},
+						{
+							"Geo_lat" : "493325.05N",
+							"Geo_long" : "0173151.04E"
+						},
+						{},
+						{
+							"Geo_lat" : "493339.47N",
+							"Geo_long" : "0172609.50E"
+						},
+						{},
+						{
+							"Geo_lat" : "492912.61N",
+							"Geo_long" : "0172558.12E"
+						},
+						{},
+						{
+							"Geo_lat" : "492821.84N",
+							"Geo_long" : "0172553.84E"
+						},
+						{
+							"Geo_lat_cen" : "492533.34N",
+							"Geo_long_cen" : "0172417.39E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						},
+						{
+							"Geo_lat" : "492817.74N",
+							"Geo_long" : "0172225.55E"
+						},
+						{},
+						{
+							"Geo_lat" : "493349.49N",
+							"Geo_long" : "0172229.56E"
+						},
+						{},
+						{
+							"Geo_lat" : "493516.25N",
+							"Geo_long" : "0172023.18E"
+						},
+						{},
+						{
+							"Geo_lat" : "493558.88N",
+							"Geo_long" : "0172350.72E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				},
+				{
+					"Identification" : "LKTRA96",
+					"Name" : "TROUBKY",
+					"Lower_limit" : "3500 ft AMSL",
+					"Upper_limit" : "FL 95",
+					"Polygon_coord" : [
+						{
+							"Geo_lat" : "492901.87N",
+							"Geo_long" : "0172012.99E"
+						},
+						{},
+						{
+							"Geo_lat" : "492817.74N",
+							"Geo_long" : "0172225.55E"
+						},
+						{
+							
+							"Geo_lat_cen" : "492533.34N",
+							"Geo_long_cen" : "0172417.39E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						},
+						{
+							"Geo_lat" : "492541.59N",
+							"Geo_long" : "0171941.97E"
+						},
+						{},
+						{
+							"Geo_lat" : "492356.54N",
+							"Geo_long" : "0170902.49E"
+						},
+						{
+							"Geo_lat_cen" : "492652.00N",
+							"Geo_long_cen" : "0170802.00E",
+							"Radius_unit" : "NM",
+							"Radius_value" : "3"
+						},
+						{
+							"Geo_lat" : "492834.08N",
+							"Geo_long" : "0171149.15E"
+						},
+						{},
+						{
+							"Geo_lat" : "492901.87N",
+							"Geo_long" : "0172012.99E"
+						},
+						{}
+					],
+					"Circle_coord" : []
+				}
+			]
+		}
+	}
+]
